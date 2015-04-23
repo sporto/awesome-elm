@@ -1,12 +1,21 @@
 Awesome Elm
 =============
 
-A community driven list of useful Elm tutorials, libraries and software.
+> A community driven list of useful Elm tutorials, libraries and software.
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 - [Awesome Elm](#awesome-elm)
+    - [Examples](#examples)
     - [Learn](#learn)
-	- [Misc](#misc)
+    - [Misc](#misc)
+    - [Support](#support)
 - [Contribution Guidelines](#contribution-guidelines)
+
+## Examples
+*Some good apps written in Elm*
+
+* [Tetris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
+
 
 ## Learn
 
@@ -21,4 +30,15 @@ A community driven list of useful Elm tutorials, libraries and software.
 
 *Everything that doesn't fit into the other categories.*
 
-* [Tetris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
+## Support
+
+*Where to find help*
+
+* [Twitter]()
+* [Reddit]()
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Ruslan Ismagilov](https://github.com/isRuslan) has waived all copyright and related or neighboring rights to this work.
