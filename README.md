@@ -1,5 +1,5 @@
-Awesome Elm
-=============
+# ![](http://elm-lang.org/logo.svg =25x) Awesome Elm
+
 
 > A community driven list of useful Elm tutorials, libraries and software.
 *Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list thing.*
@@ -42,8 +42,10 @@ Awesome Elm
 
 *Where to find help.*
 
-* [Twitter]()
-* [Reddit]()
+* [Mailing list](https://groups.google.com/forum/?fromgroups#!forum/elm-discuss) - Google discussion group.
+* [SHARE-ELM](http://www.share-elm.com/) - Share your code snippets, authorize with github gist.
+* [Reddit](http://www.reddit.com/r/elm) - Elm board on reddit.
+* [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 
 **[⬆ back to top](#table-of-contents)**
 
