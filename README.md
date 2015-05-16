@@ -4,6 +4,8 @@
 > A community driven list of useful Elm tutorials, libraries and software.
 *Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list thing.*
 
+
+
 ## Table of Contents
 - [Awesome Elm](#awesome-elm)
     - [Examples](#examples)
@@ -34,15 +36,21 @@
 * [Elm by example](http://elm-by-example.org/toc.html) - Elm tutorial via set of practice chapters.
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - Debugger that lets you travel backwards and forwards in time.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
+* [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Libraries
 
-*Useful helpers to build web/app.*
+*Useful helpers to build apps.*
 
+* [elm-core](https://github.com/elm-lang/core) - Elm Core Libraries.
 * [elm-html](https://github.com/evancz/elm-html/) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [Elm Test](https://github.com/deadfoxygrandpa/Elm-Test) - A unit testing framework for Elm.
+* [elm-test](https://github.com/deadfoxygrandpa/Elm-Test) - A unit testing framework for Elm.
+* [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
+* [elm-http](https://github.com/evancz/elm-http) - Make HTTP requests in Elm.
+* [IO](https://github.com/maxsnew/IO) - Write console-based programs in Elm.
+* [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -60,7 +68,7 @@
 
 ## Misc
 
-*Everything that doesn't fit into the other categories.*
+*Everything that you need to see.*
 
 * [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
