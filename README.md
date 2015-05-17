@@ -17,7 +17,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
     - [Misc](#misc)
     - [Support](#support)
     - [Who to follow](#who-to-follow)
-- [Contribution Guidelines](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md)
+- <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
 
 ## Examples
@@ -117,7 +117,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 
 *Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
 
-[![](https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png =100x100)](https://twitter.com/elmlang) | [![](https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg =100x100)](https://twitter.com/czaplic)
+<a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a>
 --- | --- |
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic)  
 
