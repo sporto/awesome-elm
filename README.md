@@ -1,8 +1,9 @@
-# ![](http://elm-lang.org/logo.svg =25x) Awesome Elm
+# <img src="http://elm-lang.org/logo.svg" width="26"> Awesome Elm
 
 
 > A community driven list of useful Elm tutorials, libraries and software.
-*Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list thing.*
+
+Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list thing. 
 
 
 ## Table of Contents
@@ -16,7 +17,7 @@
     - [Misc](#misc)
     - [Support](#support)
     - [Who to follow](#who-to-follow)
-- [Contribution Guidelines](#contribution-guidelines)
+- [Contribution Guidelines](https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md)
 
 
 ## Examples
