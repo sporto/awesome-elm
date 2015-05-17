@@ -5,17 +5,19 @@
 *Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list thing.*
 
 
-
 ## Table of Contents
 - [Awesome Elm](#awesome-elm)
     - [Examples](#examples)
     - [Learn](#learn)
+    - [Articles](#articles)
     - [Libraries](#libraries)
     - [Tools](#tools)
+    - [Package managers](#package-managers)    
     - [Misc](#misc)
     - [Support](#support)
     - [Who to follow](#who-to-follow)
 - [Contribution Guidelines](#contribution-guidelines)
+
 
 ## Examples
 
@@ -28,6 +30,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+
 ## Learn
 
 *Learn what this awesome thing is.*
@@ -39,6 +42,17 @@
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
 
 **[⬆ back to top](#table-of-contents)**
+
+
+## Articles
+
+*Read the essentials.*
+
+* [Architecture in Elm](https://gist.github.com/evancz/2b2ba366cae1887fe621) — Ideas and guidelines for architecting larger applications in Elm to be modular and extensible.
+* [Blazing Fast HTML](http://elm-lang.org/blog/Blazing-Fast-Html.elm) - Virtual DOM in Elm.
+
+**[⬆ back to top](#table-of-contents)**
+
 
 ## Libraries
 
@@ -54,6 +68,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+
 ## Tools
 
 *Tools around Elm platform.*
@@ -66,6 +81,14 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+
+## Package managers
+
+*Place to share Elm libraries.*
+
+* [elm-package](https://github.com/elm-lang/elm-package) - Write and compile elm code online!
+
+
 ## Misc
 
 *Everything that you need to see.*
@@ -75,6 +98,7 @@
 
 
 **[⬆ back to top](#table-of-contents)**
+
 
 ## Support
 
@@ -87,6 +111,7 @@
 
 **[⬆ back to top](#table-of-contents)**
 
+
 # Who to follow
 
 *Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
@@ -96,6 +121,7 @@
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic)  
 
 **[⬆ back to top](#table-of-contents)**
+
 
 ## License
 
