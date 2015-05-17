@@ -3,7 +3,7 @@
 
 > A community driven list of useful Elm tutorials, libraries and software.
 
-Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list thing. 
+Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list thing. Feel free to <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
 
 
 ## Table of Contents
