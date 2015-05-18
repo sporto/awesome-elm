@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 ## Learn
@@ -42,7 +42,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 ## Articles
@@ -52,7 +52,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [Architecture in Elm](https://gist.github.com/evancz/2b2ba366cae1887fe621) — Ideas and guidelines for architecting larger applications in Elm to be modular and extensible.
 * [Blazing Fast HTML](http://elm-lang.org/blog/Blazing-Fast-Html.elm) - Virtual DOM in Elm.
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 ## Libraries
@@ -67,7 +67,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [IO](https://github.com/maxsnew/IO) - Write console-based programs in Elm.
 * [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 ## Tools
@@ -80,7 +80,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 ## Package managers
@@ -89,6 +89,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 
 * [elm-package](https://github.com/elm-lang/elm-package) - Write and compile elm code online!
 
+**[&#x2B06; back to top](#table-of-contents)**
 
 ## Misc
 
@@ -98,7 +99,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
 
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 ## Support
@@ -110,7 +111,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [Reddit](http://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 # Who to follow
@@ -121,7 +122,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 --- | --- |
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic)  
 
-**[⬆ back to top](#table-of-contents)**
+**[&#x2B06; back to top](#table-of-contents)**
 
 
 ## License
