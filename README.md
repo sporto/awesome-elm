@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
     - [Articles](#articles)
     - [Libraries](#libraries)
     - [Tools](#tools)
-    - [Package managers](#package-managers)    
+    - [Package managers](#package-managers)
     - [Misc](#misc)
     - [Support](#support)
     - [Who to follow](#who-to-follow)
@@ -79,6 +79,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 * [elm-reactor](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs.
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
+* [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
