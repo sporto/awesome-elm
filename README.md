@@ -48,10 +48,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Articles
 
-*Read the essentials.*
+*Read the essentials. Check the official Elm blog: [elm-lang.org/blog](http://elm-lang.org/Blog.elm)*
 
 * [Architecture in Elm](https://gist.github.com/evancz/2b2ba366cae1887fe621) — Ideas and guidelines for architecting larger applications in Elm to be modular and extensible.
 * [Blazing Fast HTML](http://elm-lang.org/blog/Blazing-Fast-Html.elm) - Virtual DOM in Elm.
+* [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
