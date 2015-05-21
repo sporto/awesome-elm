@@ -89,7 +89,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Place to share Elm libraries.*
 
-* [elm-package](https://github.com/elm-lang/elm-package) - Write and compile elm code online!
+* [elm-package](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
