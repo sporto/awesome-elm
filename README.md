@@ -1,9 +1,11 @@
-# <img src="http://elm-lang.org/logo.svg" width="26"> Awesome Elm
+# <img src="http://elm-lang.org/logo.svg" width="26"> Awesome Elm 
 
 
 > A community driven list of useful Elm tutorials, libraries and software.
 
 Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ## Table of Contents
