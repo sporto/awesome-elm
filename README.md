@@ -56,6 +56,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Blazing Fast HTML](http://elm-lang.org/blog/Blazing-Fast-Html.elm) - Virtual DOM in Elm.
 * [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - Experiences on the Elm language.
+* [Introduction to Rx](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
