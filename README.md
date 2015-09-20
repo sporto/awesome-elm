@@ -13,6 +13,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Examples](#examples)
     - [Learn](#learn)
     - [Articles](#articles)
+    - [Videos](#videos)
     - [Libraries](#libraries)
     - [Tools](#tools)
     - [Package managers](#package-managers)
@@ -61,6 +62,14 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
+## Videos
+
+*Watch great talks about Elm*
+
+* [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - a talk from the father of Elm about the philosophy behind the language
+
+**[:arrow_up: back to top](#table-of-contents)**
 
 ## Libraries
 
