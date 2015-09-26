@@ -113,7 +113,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Everything that you need to see.*
 
 * [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
-* [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
+* [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online
+* [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds..
 
 
 **[:arrow_up: back to top](#table-of-contents)**
