@@ -32,6 +32,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Tetris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
+* [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
