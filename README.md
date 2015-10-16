@@ -129,6 +129,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [SHARE-ELM](http://www.share-elm.com/) - Share your code snippets, authorize with github gist.
 * [Reddit](http://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
+* [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
