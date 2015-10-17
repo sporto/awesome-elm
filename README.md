@@ -46,6 +46,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - Debugger that lets you travel backwards and forwards in time.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
+* [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
+* [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals) - Create more reactive Elm apps by mastering signals.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
