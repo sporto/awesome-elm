@@ -99,6 +99,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
+* [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
+* [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -142,7 +144,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a>
 --- | --- |
-[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic)  
+[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
