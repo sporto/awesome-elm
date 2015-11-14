@@ -14,6 +14,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Learn](#learn)
     - [Articles](#articles)
     - [Videos](#videos)
+    - [Podcasts](#podcasts)
     - [Libraries](#libraries)
     - [Tools](#tools)
     - [Package managers](#package-managers)
@@ -71,6 +72,19 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Watch great talks about Elm*
 
 * [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - a talk from the father of Elm about the philosophy behind the language
+
+**[:arrow_up: back to top](#table-of-contents)**
+
+## Podcasts
+
+*Listen to podcasts about Elm*
+
+* [Functional Geekery 33 - Richard Feldman and Tessa Kelly](http://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/)
+* [Software Engineering Daily - Elm with Richard Feldman and Srinivas Rao](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/)
+* [JavaScript Jabber 175 - Elm with Evan Czaplicki and Richard Feldman](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
+* [Ruby Rogues 212 - Elm with Richard Feldman and Evan Czaplicki](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
+* [The Web Platform Podcast 15 - Functional Programming with Elm, ClojureScript, Om, and React](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react)
+* [Mostly Erlang Podcast 32 - Elm with Evan Czaplicki](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
