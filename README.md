@@ -99,7 +99,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-test](https://github.com/deadfoxygrandpa/Elm-Test) - A unit testing framework for Elm.
 * [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
 * [elm-http](https://github.com/evancz/elm-http) - Make HTTP requests in Elm.
-* [IO](https://github.com/maxsnew/IO) - Write console-based programs in Elm.
+* [elm-console](https://github.com/laszlopandy/elm-console) - Write console-based programs in Elm.
 * [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
