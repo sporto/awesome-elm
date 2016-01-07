@@ -75,6 +75,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Watch great talks about Elm*
 
 * [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - a talk from the father of Elm about the philosophy behind the language
+* [Pragmatic Studio: Elm, Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Paid
+* [Pragmatic Studio: Elm, Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals) - Paid
 
 **[:arrow_up: back to top](#table-of-contents)**
 
