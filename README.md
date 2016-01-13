@@ -51,6 +51,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
 * [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals) - Create more reactive Elm apps by mastering signals.
+* [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
