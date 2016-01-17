@@ -18,6 +18,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Podcasts](#podcasts)
     - [Libraries](#libraries)
     - [Tools](#tools)
+    - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
     - [Misc](#misc)
     - [Support](#support)
