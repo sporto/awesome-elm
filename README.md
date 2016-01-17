@@ -121,6 +121,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm
+* [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor
+* [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor
 
 **[:arrow_up: back to top](#table-of-contents)**
 
