@@ -18,6 +18,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Podcasts](#podcasts)
     - [Libraries](#libraries)
     - [Tools](#tools)
+    - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
     - [Misc](#misc)
     - [Support](#support)
@@ -124,6 +125,15 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+##Editor plugins
+
+*Tools to support Elm in code editors.*
+
+
+* [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor
+* [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor
+
+**[:arrow_up: back to top](#table-of-contents)**
 
 ## Package managers
 
