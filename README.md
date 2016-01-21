@@ -120,6 +120,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
+* [elm-format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm
