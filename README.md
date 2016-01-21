@@ -18,6 +18,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Podcasts](#podcasts)
     - [Libraries](#libraries)
     - [Tools](#tools)
+    - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
     - [Misc](#misc)
     - [Support](#support)
@@ -30,7 +31,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Some good apps written in Elm.*
 
-* [Official list](http://elm-lang.org/Examples.elm) - Examples from _basic_ to _big-project_ in official website.
+* [Official list](http://elm-lang.org/examples) - Examples from _basic_ to _big-project_ in official website.
+* [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
 * [Tetris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
@@ -44,23 +46,24 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Learn what this awesome thing is.*
 
-* [Official tutorial](http://elm-lang.org/Learn.elm) — General information and in-depth guide with examples.
+* [Official tutorial](http://elm-lang.org/docs) — General information and in-depth guide with examples.
 * [Elm by example](http://elm-by-example.org/toc.html) - Elm tutorial via set of practice chapters.
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - Debugger that lets you travel backwards and forwards in time.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
 * [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals) - Create more reactive Elm apps by mastering signals.
+* [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Articles
 
-*Read the essentials. Check the official Elm blog: [elm-lang.org/blog](http://elm-lang.org/Blog.elm)*
+*Read the essentials. Check the official Elm blog: [elm-lang.org/blog](http://elm-lang.org/blog)*
 
 * [Architecture in Elm](https://gist.github.com/evancz/2b2ba366cae1887fe621) — Ideas and guidelines for architecting larger applications in Elm to be modular and extensible.
-* [Blazing Fast HTML](http://elm-lang.org/blog/Blazing-Fast-Html.elm) - Virtual DOM in Elm.
+* [Blazing Fast HTML](http://elm-lang.org/blog/blazing-fast-html) - Virtual DOM in Elm.
 * [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - Experiences on the Elm language.
 * [Introduction to Rx](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing.
@@ -82,7 +85,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Listen to podcasts about Elm*
 
-* [Functional Geekery 33 - Richard Feldman and Tessa Kelly](http://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/)
+* [Functional Geekery 33 - Richard Feldman and Tessa Kelly](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/)
 * [Software Engineering Daily - Elm with Richard Feldman and Srinivas Rao](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/)
 * [JavaScript Jabber 175 - Elm with Evan Czaplicki and Richard Feldman](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 * [Ruby Rogues 212 - Elm with Richard Feldman and Evan Czaplicki](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
@@ -122,6 +125,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+##Editor plugins
+
+*Tools to support Elm in code editors.*
+
+
+* [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor
+* [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor
+* [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor 
+
+**[:arrow_up: back to top](#table-of-contents)**
 
 ## Package managers
 
@@ -149,7 +162,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Mailing list](https://groups.google.com/forum/?fromgroups#!forum/elm-discuss) - Google discussion group.
 * [SHARE-ELM](http://www.share-elm.com/) - Share your code snippets, authorize with github gist.
-* [Reddit](http://www.reddit.com/r/elm) - Elm board on reddit.
+* [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 * [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
 
