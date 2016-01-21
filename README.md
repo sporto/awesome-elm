@@ -85,6 +85,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Listen to podcasts about Elm*
 
+* [The Changelog 191 - Elm and Functional Programming with Richard Feldman](https://changelog.com/191/)
 * [Functional Geekery 33 - Richard Feldman and Tessa Kelly](http://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/)
 * [Software Engineering Daily - Elm with Richard Feldman and Srinivas Rao](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/)
 * [JavaScript Jabber 175 - Elm with Evan Czaplicki and Richard Feldman](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
