@@ -86,6 +86,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Listen to podcasts about Elm*
 
 * [Functional Geekery 33 - Richard Feldman and Tessa Kelly](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/)
+* [The Changelog 191 - Elm and Functional Programming with Richard Feldman](https://changelog.com/191/)
 * [Software Engineering Daily - Elm with Richard Feldman and Srinivas Rao](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/)
 * [JavaScript Jabber 175 - Elm with Evan Czaplicki and Richard Feldman](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 * [Ruby Rogues 212 - Elm with Richard Feldman and Evan Czaplicki](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
@@ -133,6 +134,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor
 * [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor
 * [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor 
+* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table
 
 **[:arrow_up: back to top](#table-of-contents)**
 
