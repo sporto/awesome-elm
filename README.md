@@ -134,6 +134,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor
 * [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor
 * [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor 
+* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table
 
 **[:arrow_up: back to top](#table-of-contents)**
 
