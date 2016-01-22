@@ -78,6 +78,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Watch great talks about Elm*
 
 * [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - a talk from the father of Elm about the philosophy behind the language
+* [Richard Feldman: Make the Back-End Team Jealous: Elm in Production](http://www.youtube.com/watch?v=FV0DXNB94NE) - talk about Elm and initial steps to use it in production
 
 **[:arrow_up: back to top](#table-of-contents)**
 
