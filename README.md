@@ -54,6 +54,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
 * [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals) - Create more reactive Elm apps by mastering signals.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
+* [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
