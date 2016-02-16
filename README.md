@@ -111,6 +111,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-test](https://github.com/deadfoxygrandpa/Elm-Test) - A unit testing framework for Elm.
 * [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
 * [elm-http](https://github.com/evancz/elm-http) - Make HTTP requests in Elm.
+* [elm-http-extra](https://github.com/lukewestby/elm-http-extra) - Build and handle JSON requests more naturally than with low-level elm-http.
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
 
