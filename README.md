@@ -38,6 +38,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
 * [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
 * [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
+* [elmflux](http://yang-wei.github.io/elmflux/) - Visualization of Elm Signals
 
 **[:arrow_up: back to top](#table-of-contents)**
 
