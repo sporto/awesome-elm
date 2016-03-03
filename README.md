@@ -58,6 +58,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 * [Elm Tutorial](http://www.elm-tutorial.org/) - A tutorial on developing single page web applications with Elm.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
+* [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -82,9 +83,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Watch great talks about Elm*
 
-* [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - a talk from the father of Elm about the philosophy behind the language
-* [Richard Feldman: Make the Back-End Team Jealous: Elm in Production](http://www.youtube.com/watch?v=FV0DXNB94NE) - talk about Elm and initial steps to use it in production
-* [Richard Feldman: Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc) - a talk about how Elm manage side effects
+* [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - A talk from the father of Elm about the philosophy behind the language.
+* [Richard Feldman: Make the Back-End Team Jealous: Elm in Production](http://www.youtube.com/watch?v=FV0DXNB94NE) - A talk about Elm and initial steps to use it in production.
+* [Richard Feldman: Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc) - A talk about how Elm manages side effects.
+* [Jamison Dance: Rethinking All Practices - Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8) - A talk given at React.js Conf 2016 about what Elm has to teach the JavaScript world and why JS devs should consider trying it.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
