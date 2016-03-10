@@ -20,6 +20,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Tools](#tools)
     - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
+    - [Boilerplates](#boilerplates)
     - [Misc](#misc)
     - [Support](#support)
     - [Who to follow](#who-to-follow)
@@ -156,6 +157,14 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Place to share Elm libraries.*
 
 * [elm-package](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
+
+**[:arrow_up: back to top](#table-of-contents)**
+
+## Boilerplates
+
+*Good starting point for a new Elm project.*
+
+* [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
