@@ -101,6 +101,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [JavaScript Jabber 175 - Elm with Evan Czaplicki and Richard Feldman](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
 * [Ruby Rogues 212 - Elm with Richard Feldman and Evan Czaplicki](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
 * [The Web Platform Podcast 15 - Functional Programming with Elm, ClojureScript, Om, and React](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react)
+* [The Web Platform Podcast 76 - The Elm Programming Language](http://thewebplatformpodcast.com/76-the-elm-programming-language)
 * [Mostly Erlang Podcast 32 - Elm with Evan Czaplicki](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
 
 **[:arrow_up: back to top](#table-of-contents)**
