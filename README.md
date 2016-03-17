@@ -118,6 +118,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-http-extra](https://github.com/lukewestby/elm-http-extra) - Build and handle JSON requests more naturally than with low-level elm-http.
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
+* [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
