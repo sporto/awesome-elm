@@ -60,6 +60,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Tutorial](http://www.elm-tutorial.org/) - A tutorial on developing single page web applications with Elm.
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 * [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
+* [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - High overview of language features.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -95,14 +96,14 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Listen to podcasts about Elm*
 
-* [Functional Geekery 33 - Richard Feldman and Tessa Kelly](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/)
-* [The Changelog 191 - Elm and Functional Programming with Richard Feldman](https://changelog.com/191/)
-* [Software Engineering Daily - Elm with Richard Feldman and Srinivas Rao](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/)
-* [JavaScript Jabber 175 - Elm with Evan Czaplicki and Richard Feldman](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman)
-* [Ruby Rogues 212 - Elm with Richard Feldman and Evan Czaplicki](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki)
-* [The Web Platform Podcast 15 - Functional Programming with Elm, ClojureScript, Om, and React](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react)
-* [The Web Platform Podcast 76 - The Elm Programming Language](http://thewebplatformpodcast.com/76-the-elm-programming-language)
-* [Mostly Erlang Podcast 32 - Elm with Evan Czaplicki](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/)
+* [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
+* [The Changelog 191](https://changelog.com/191/) - Elm and Functional Programming with Richard Feldman.
+* [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
+* [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - Elm with Evan Czaplicki and Richard Feldman.
+* [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - Elm with Richard Feldman and Evan Czaplicki.
+* [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - Functional Programming with Elm, ClojureScript, Om, and React.
+* [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - The Elm Programming Language.
+* [Mostly Erlang Podcast 32](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/) - Elm with Evan Czaplicki.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -136,7 +137,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
-* [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm
+* [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -145,12 +146,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Tools to support Elm in code editors.*
 
 
-* [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor
-* [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor
-* [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor 
-* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table
-* [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3
-* [Elm-vim](https://github.com/ElmCast/elm-vim) - Elm mode for vim 
+* [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor.
+* [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor.
+* [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
+* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
+* [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3.
+* [Elm-vim](https://github.com/ElmCast/elm-vim) - Elm mode for vim.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -175,9 +176,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Everything that you need to see.*
 
 * [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
-* [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online
-* [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds..
-* [elmflux](http://yang-wei.github.io/elmflux/) - Visualization of Elm Signals
+* [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
+* [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
+* [elmflux](http://yang-wei.github.io/elmflux/) - Visualization of Elm Signals.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
