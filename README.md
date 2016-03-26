@@ -153,6 +153,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 * [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3.
 * [Elm-vim](https://github.com/ElmCast/elm-vim) - Elm mode for vim.
+* [elm-plugin](https://plugins.jetbrains.com/plugin/8192) - Elm plugin for IntelliJ IDEA.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
