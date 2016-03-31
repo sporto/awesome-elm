@@ -79,6 +79,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Introducing Elm to JS Web Apps](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app) - An article explaining how to get started with Elm by integrating it with your exisiting Javascript framework
 * [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - How a team built a business-critical web app for a customer using Elm.
 * [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) - An article describing how to organize code that follows the Elm architecture into independent features, how to communicate between features, and how to group some of these features together to assemble larger features.
+* [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) - Series of Elm education tutorials.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
