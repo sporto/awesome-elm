@@ -38,6 +38,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
 * [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
+* [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
 * [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 * [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
 
@@ -123,6 +124,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
+* [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
