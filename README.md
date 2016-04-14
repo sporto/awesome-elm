@@ -63,6 +63,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm cheat sheet](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 * [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - High overview of language features.
+* [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
