@@ -127,6 +127,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
+* [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/).
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 
 **[:arrow_up: back to top](#table-of-contents)**
