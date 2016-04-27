@@ -182,6 +182,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Good starting point for a new Elm project.*
 
 * [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
+* [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
