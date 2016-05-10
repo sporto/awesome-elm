@@ -150,6 +150,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm.
+* [elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
