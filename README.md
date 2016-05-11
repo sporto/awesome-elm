@@ -99,6 +99,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Richard Feldman: Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc) - A talk about how Elm manages side effects.
 * [Jamison Dance: Rethinking All Practices - Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8) - A talk given at React.js Conf 2016 about what Elm has to teach the JavaScript world and why JS devs should consider trying it.
 * [Richard Feldman: Introduction to Elm](https://www.youtube.com/watch?v=3_M2G9U51GA) - A talk that gives a broad, high-level introduction to Elm.
+* [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
+* [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neato series of bite-sized Elm training videos, many of which are free.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
