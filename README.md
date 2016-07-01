@@ -65,7 +65,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - High overview of language features.
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 * [Elm Topic on DailyDrip](http://dailydrip.com/topics/elm) - Daily continuing education on Elm, videos and text, with new content every day.
-* [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises. 
+* [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
+* [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
 
 
 **[:arrow_up: back to top](#table-of-contents)**
