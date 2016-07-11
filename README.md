@@ -1,4 +1,4 @@
-# <img src="http://elm-lang.org/logo.svg" width="26"> Awesome Elm
+# <img src="http://elm-lang.org/assets/logo.svg" width="26"> Awesome Elm
 
 
 > A community driven list of useful Elm tutorials, libraries and software.
