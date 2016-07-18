@@ -66,6 +66,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
 * [Elm Topic on DailyDrip](http://dailydrip.com/topics/elm) - Daily continuing education on Elm, videos and text, with new content every day.
 * [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises. 
+* [Data structures in Elm](https://dennisreimann.de/articles/elm.html) - Series of articles about data structures in Elm.
 
 
 **[:arrow_up: back to top](#table-of-contents)**
