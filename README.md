@@ -43,6 +43,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
 * [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 * [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
+* [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the TodoMVC app in Electron.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
