@@ -114,6 +114,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Listen to podcasts about Elm*
 
+* [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) - Elm with Evan Czaplicki.
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
 * [The Changelog 191](https://changelog.com/191/) - Elm and Functional Programming with Richard Feldman.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
