@@ -152,6 +152,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-compiler](https://github.com/elm-lang/elm-compiler) - Compiler for the Elm programming language.
 * [elm-make](https://github.com/elm-lang/elm-make) - A build tool for Elm projects.
 * [elm-reactor](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs.
+* [elm-live](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
