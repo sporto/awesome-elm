@@ -173,6 +173,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor.
 * [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
 * [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor.
+* [elmjutsu](https://atom.io/packages/elmjutsu) - Autocompletion, go to definition, find usages, rename symbol, etc. for the Atom editor.
 * [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
 * [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 * [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3.
