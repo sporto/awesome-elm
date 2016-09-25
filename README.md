@@ -165,6 +165,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm.
 * [elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+* [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
