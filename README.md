@@ -54,6 +54,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Learn what this awesome thing is.*
 
 * [Official tutorial](http://elm-lang.org/docs) — General information and in-depth guide with examples.
+* [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) — In-depth book for Elm beginners, from Manning Publications.
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - Debugger that lets you travel backwards and forwards in time.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
