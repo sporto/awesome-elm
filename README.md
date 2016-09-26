@@ -225,7 +225,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Where to find help.*
 
 * [Mailing list](https://groups.google.com/forum/?fromgroups#!forum/elm-discuss) - Google discussion group.
-* [SHARE-ELM](http://www.share-elm.com/) - Share your code snippets, authorize with github gist.
 * [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 * [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
