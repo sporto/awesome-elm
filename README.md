@@ -168,6 +168,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
 * [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
+* [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
