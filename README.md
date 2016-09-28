@@ -211,6 +211,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Everything that you need to see.*
 
+* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 * [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
 * [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
