@@ -128,6 +128,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - Functional Programming with Elm, ClojureScript, Om, and React.
 * [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - The Elm Programming Language.
 * [Mostly Erlang Podcast 32](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/) - Elm with Evan Czaplicki.
+* [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
