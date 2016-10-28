@@ -115,6 +115,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - All talks from elm-conf 2016
 * [Amitai Burstein: Frontend with Guarantees](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - A talk from You Gotta Love Frontend 2016
+* [Jessica Kerr: Adventures in Elm](https://www.youtube.com/watch?v=cgXhMc8M4X4) - A talk about the combination of functional programming with Elm at GOTO Chicago 2016.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
