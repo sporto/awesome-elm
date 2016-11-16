@@ -97,6 +97,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - a realistic look at where Elm is and isn’t superior to other options.
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - Some thoughts on Elm development by a swedish startup.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - A blog with various topics about Elm.
+* [Elm from a Business Perspective](http://www.gizra.com/content/elm-business-perspective/) - This article discusses topics about Elm from a business perspective
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -135,6 +136,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
 * [Mostly Erlang Podcast 32](http://mostlyerlang.com/2014/03/24/032-elm-with-evan-czaplicki/) - Elm with Evan Czaplicki.
 * [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community.
+* [Full Stack Radio 44](http://www.fullstackradio.com/44) - What the heck is Elm? In this episode, Joel Clermont talks about Elm and functional programming.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
