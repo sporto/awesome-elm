@@ -226,7 +226,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
-* [elmflux](http://yang-wei.github.io/elmflux/) - Visualization of Elm Signals.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
