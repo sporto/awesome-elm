@@ -60,7 +60,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Start app](https://github.com/evancz/start-app) - Make an app, start it up.
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
-* [Elm: Signals, Mailboxes & Ports](https://pragmaticstudio.com/elm-signals) - Create more reactive Elm apps by mastering signals.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
@@ -72,7 +71,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Topic on DailyDrip](http://dailydrip.com/topics/elm) - Daily continuing education on Elm, videos and text, with new content every day.
 * [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
-* [Elm For Begginers - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
+* [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 * [Elm Koans](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 
@@ -83,7 +82,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Read the essentials. Check the official Elm blog: [elm-lang.org/blog](http://elm-lang.org/blog)*
 
-* [Architecture in Elm](https://gist.github.com/evancz/2b2ba366cae1887fe621) — Ideas and guidelines for architecting larger applications in Elm to be modular and extensible.
 * [Blazing Fast HTML](http://elm-lang.org/blog/blazing-fast-html) - Virtual DOM in Elm.
 * [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - Switching from imperative to functional programming with games in Elm.
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - Experiences on the Elm language.
@@ -228,7 +226,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
-* [elmflux](http://yang-wei.github.io/elmflux/) - Visualization of Elm Signals.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
