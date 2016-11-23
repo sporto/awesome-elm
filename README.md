@@ -115,6 +115,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - All talks from elm-conf 2016
 * [Amitai Burstein: Frontend with Guarantees](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - A talk from You Gotta Love Frontend 2016
 * [Jessica Kerr: Adventures in Elm](https://www.youtube.com/watch?v=cgXhMc8M4X4) - A talk about the combination of functional programming with Elm at GOTO Chicago 2016.
+* [Aaron VonderHaar: Codevember 2016 ](https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf) + [ElmLive](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw) - elm live video examples.
+* [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
