@@ -148,7 +148,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [elm-core](https://github.com/elm-lang/core) - Elm Core Libraries.
 * [elm-html](https://github.com/evancz/elm-html/) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test](https://github.com/deadfoxygrandpa/Elm-Test) - A unit testing framework for Elm.
+* [elm-test](https://github.com/elm-community/elm-test) - A unit testing framework for Elm.
 * [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
 * [elm-http](https://github.com/evancz/elm-http) - Make HTTP requests in Elm.
 * [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
