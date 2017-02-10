@@ -89,13 +89,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - Experiences on the Elm language.
 * [Introduction to Rx](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing.
 * [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
-* [Introducing Elm to JS Web Apps](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app) - An article explaining how to get started with Elm by integrating it with your exisiting Javascript framework
+* [Introducing Elm to JS Web Apps](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app) - An article explaining how to get started with Elm by integrating it with your existing Javascript framework
 * [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - How a team built a business-critical web app for a customer using Elm.
 * [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) - An article describing how to organize code that follows the Elm architecture into independent features, how to communicate between features, and how to group some of these features together to assemble larger features.
 * [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612) - A blog post describing a possible approach to reducing TEA boilerplate. Useful for component libraries and anyone interested in seeing the amazing things you can do with function types.
 * [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) - Series of Elm education tutorials.
 * [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - a realistic look at where Elm is and isn’t superior to other options.
-* [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - Some thoughts on Elm development by a swedish startup.
+* [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - Some thoughts on Elm development by a Swedish startup.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - A blog with various topics about Elm.
 * [Elm from a Business Perspective](http://www.gizra.com/content/elm-business-perspective/) - This article discusses topics about Elm from a business perspective
 
@@ -112,7 +112,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Jamison Dance: Rethinking All Practices - Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8) - A talk given at React.js Conf 2016 about what Elm has to teach the JavaScript world and why JS devs should consider trying it.
 * [Richard Feldman: Introduction to Elm](https://www.youtube.com/watch?v=3_M2G9U51GA) - A talk that gives a broad, high-level introduction to Elm.
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
-* [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neato series of bite-sized Elm training videos, many of which are free.
+* [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neat series of bite-sized Elm training videos, many of which are free.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - All talks from elm-conf 2016
 * [Amitai Burstein: Frontend with Guarantees](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - A talk from You Gotta Love Frontend 2016
