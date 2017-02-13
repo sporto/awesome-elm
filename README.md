@@ -233,6 +233,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
 * [runelm.io](https://runelm.io) - A place to share and run Elm code.
+* [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
 
 **[:arrow_up: back to top](#table-of-contents)**
 
