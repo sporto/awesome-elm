@@ -146,14 +146,14 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Useful helpers to build apps.*
 
-* [elm-core](https://github.com/elm-lang/core) - Elm Core Libraries.
-* [elm-html](https://github.com/evancz/elm-html/) - Use HTML in Elm, based on the idea of a "virtual DOM".
+* [core](https://github.com/elm-lang/core) - Elm Core Libraries.
+* [html](https://github.com/elm-lang/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
 * [elm-test](https://github.com/elm-community/elm-test) - A unit testing framework for Elm.
 * [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
-* [elm-http](https://github.com/evancz/elm-http) - Make HTTP requests in Elm.
+* [http](https://github.com/elm-lang/http) - Make HTTP requests in Elm.
 * [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
-* [Lazy](https://github.com/maxsnew/lazy) - Lazy Evaluation in Elm.
+* [Lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
 * [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/).
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
