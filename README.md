@@ -185,7 +185,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
-##Editor plugins
+## Editor plugins
 
 *Tools to support Elm in code editors.*
 
@@ -236,6 +236,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targetted at Elm beginners coming from Haskell backgrounds.
 * [runelm.io](https://runelm.io) - A place to share and run Elm code.
 * [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
+* [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
 
 **[:arrow_up: back to top](#table-of-contents)**
 
