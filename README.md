@@ -99,6 +99,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - Some thoughts on Elm development by a Swedish startup.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - A blog with various topics about Elm.
 * [Elm from a Business Perspective](http://www.gizra.com/content/elm-business-perspective/) - This article discusses topics about Elm from a business perspective
+* [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - An article describing the Elm architecture and how to build a simple application
 
 **[:arrow_up: back to top](#table-of-contents)**
 
