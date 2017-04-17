@@ -76,7 +76,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 * [Elm Koans](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
-* [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language
+* [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
+* [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
+* [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
+* [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to callin an API.
+* [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) - Adaptations for Elm from Ninety-Nine Haskell Problems.
+* [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
