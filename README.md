@@ -108,6 +108,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - A blog with various topics about Elm.
 * [Elm from a Business Perspective](http://www.gizra.com/content/elm-business-perspective/) - This article discusses topics about Elm from a business perspective
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - An article describing the Elm architecture and how to build a simple application
+* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
