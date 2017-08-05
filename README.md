@@ -52,6 +52,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
 * [Spotify Mapper](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
 * [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
+* [Pokelmon](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
