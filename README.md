@@ -206,6 +206,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
