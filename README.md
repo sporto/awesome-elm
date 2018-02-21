@@ -142,6 +142,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Podcasts
 
 *Listen to podcasts about Elm*
@@ -162,9 +163,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Languages
 
 * [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
+
 
 ## Libraries
 
@@ -197,14 +200,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-live](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
 * [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
 * [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
-* [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
-* [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 * [elm-format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm.
 * [elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
 * [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
@@ -213,10 +213,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Editor plugins
 
 *Tools to support Elm in code editors.*
-
 
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor.
 * [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
@@ -236,6 +236,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Package managers
 
 *Place to share Elm libraries.*
@@ -244,6 +245,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+
 ## Boilerplates
 
 *Good starting point for a new Elm project.*
@@ -251,9 +253,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 * [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
 * [elmkit](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
-* [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app
+* [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app.
+* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+* [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
+* [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 
 **[:arrow_up: back to top](#table-of-contents)**
+
 
 ## Misc
 
