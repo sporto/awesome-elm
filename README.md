@@ -55,6 +55,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
 * [Pokelmon](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
 * [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
+* [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - Chrome extension built in Elm that shows the bitcoin value in all Brazilian exchanges.
 * [Elmstagram](https://github.com/bkbooth/Elmstagram) - Basic UI Clone of Instagram / Articles - [Part 1](https://benkbooth.com/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://bkbooth.me/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
 
@@ -207,6 +208,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -228,6 +230,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [emmet-vim](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
 * [elm-plugin](https://plugins.jetbrains.com/plugin/8192) - Elm plugin for IntelliJ IDEA.
 * [Elm Visual Studio Code Support](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) - Syntax highlighting, Snippets, Function information, REPL, Reactor support (Webserver/Debugger) - Starting/Stopping
+* [Elmmet: Emmet for Elm (Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) - Emmetio abbreviation expander into composition of Elm function with elm-format'er inside.
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
 
 **[:arrow_up: back to top](#table-of-contents)**
