@@ -257,6 +257,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 * [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
+* [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
