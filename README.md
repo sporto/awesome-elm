@@ -285,7 +285,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Where to find help.*
 
-* [Mailing list](https://groups.google.com/forum/?fromgroups#!forum/elm-discuss) - Google discussion group.
+* [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (official forum).
 * [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 * [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
