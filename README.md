@@ -95,6 +95,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Beginners' course to Elm and Data
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
+* [The Hitchhiker's Guide to Elm](http://azer.bike/journal/elm/) - Beginner-friendly guide for learning the language and building apps with it
 
 **[:arrow_up: back to top](#table-of-contents)**
 
