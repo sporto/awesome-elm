@@ -213,6 +213,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
