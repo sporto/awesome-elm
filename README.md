@@ -16,7 +16,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Articles](#articles)
     - [Videos](#videos)
     - [Podcasts](#podcasts)
-    - [Languages](#languages)
     - [Libraries](#libraries)
     - [Tools](#tools)
     - [Editor plugins](#editor-plugins)
@@ -165,11 +164,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
 
 **[:arrow_up: back to top](#table-of-contents)**
-
-
-## Languages
-
-* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
 
 
 ## Libraries
