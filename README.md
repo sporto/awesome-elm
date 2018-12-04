@@ -176,11 +176,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Useful helpers to build apps.*
 
-* [core](https://github.com/elm-lang/core) - Elm Core Libraries.
-* [html](https://github.com/elm-lang/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test](https://github.com/elm-community/elm-test) - A unit testing framework for Elm.
+* [core](https://github.com/elm/core) - Elm Core Libraries.
+* [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
+* [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
 * [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
-* [http](https://github.com/elm-lang/http) - Make HTTP requests in Elm.
+* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
 * [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
