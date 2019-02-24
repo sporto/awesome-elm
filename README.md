@@ -285,6 +285,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [runelm.io](https://runelm.io) - A place to share and run Elm code.
 * [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
 * [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
+* [Elm on Alpine](https://github.com/wunsh/docker-alpine-elm) - The full working Docker image of Elm language built on top of Alpine. An easy way to start with Elm. No any system-wide dependencies except for Docker.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
