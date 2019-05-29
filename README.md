@@ -172,6 +172,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Beyond the DOM
 
+* [Elchemy](https://wende.github.io/elchemy/) - Compile your Elm code into idiomatic Elixir and by so, into the auto healing Erlang VM.
 * [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations. You need to do the wiring to the UI by yourself. 
 * [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
