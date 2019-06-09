@@ -1,3 +1,6 @@
+
+## This project is required a new maintainer [MAINTAINER WANTED ❤️](https://github.com/isRuslan/awesome-elm/issues/172)
+
 # <img src="./elm-logo.png" width="26"> Awesome Elm
 
 
