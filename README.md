@@ -192,7 +192,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
 * [lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
-* [elm-mdl](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/).
+* [elm-mdc](https://github.com/aforemny/elm-mdc) - Elm port of the Material Components for the Web CSS/JS library.
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info).
 * [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
