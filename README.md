@@ -175,11 +175,18 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Beyond the DOM
 
-* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
+* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can [import the generated .js files](https://github.com/isRuslan/awesome-elm/pull/157) in QML applications in order to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
 * [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
+
+## Other implementations
+
+* [Elmish](https://elmish.github.io/elmish/) The Elm Architecture on F# and Fable. 
+* [Bolero](https://fsbolero.io/) The Elm Architecture based on F# and compiling into WebAssembly
+
+* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
 
 
 ## Libraries
