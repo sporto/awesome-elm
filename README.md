@@ -199,6 +199,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
 * [style-elements](https://github.com/mdgriffith/style-elements) - A new way to generate web UI that makes it easier to deal with layout and stylings. [Guide](https://mdgriffith.gitbooks.io/style-elements/).
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
+* [turtle-graphics](https://github.com/mrdimosthenis/turtle-graphics) - Command a relative cursor (turtle) to draw vector graphics.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
