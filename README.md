@@ -24,7 +24,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Package managers](#package-managers)
     - [Boilerplates](#boilerplates)
     - [Misc](#misc)
-    - [Support](#support)
+    - [Community and Support](#community-and-support)
     - [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
@@ -290,7 +290,7 @@ Here are some notable ones:
 **[:arrow_up: back to top](#table-of-contents)**
 
 
-## Support
+## Community and Support
 
 *Where to find help.*
 
