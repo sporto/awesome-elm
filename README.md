@@ -302,7 +302,7 @@ Here are some notable ones:
 **[:arrow_up: back to top](#table-of-contents)**
 
 
-# Who to follow
+## Who to follow
 
 *Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
 
@@ -313,7 +313,7 @@ Here are some notable ones:
 **[:arrow_up: back to top](#table-of-contents)**
 
 
-# More awesome
+## More awesome
 
 *Discover other amazingly awesome lists.*
 
