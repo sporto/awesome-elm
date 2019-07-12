@@ -183,7 +183,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Libraries
 
-You can find hundreds of high quality packages at <https://package.elm-lang.org/>.
+You can find hundreds of high quality packages at:
+
+* [Elm packages](https://package.elm-lang.org/) - The official registry
+* [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
+
 Here are some notable ones:
 
 * [core](https://github.com/elm/core) - Elm Core Libraries.
