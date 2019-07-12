@@ -183,24 +183,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ## Libraries
 
-*Useful helpers to build apps.*
+You can find hundreds of high quality packages at <https://package.elm-lang.org/>.
+Here are some notable ones:
 
 * [core](https://github.com/elm/core) - Elm Core Libraries.
 * [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
 * [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
-* [elm-router](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
 * [http](https://github.com/elm/http) - Make HTTP requests in Elm.
-* [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
-* [elm-console](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
-* [lazy](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
-* [elm-ui](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
-* [elm-mdc](https://github.com/aforemny/elm-mdc) - Elm port of the Material Components for the Web CSS/JS library.
-* [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
-* [elm-bootstrap](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info).
-* [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
-* [style-elements](https://github.com/mdgriffith/style-elements) - A new way to generate web UI that makes it easier to deal with layout and stylings. [Guide](https://mdgriffith.gitbooks.io/style-elements/).
+* [elm-ui](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
+* [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
-* [turtle-graphics](https://github.com/mrdimosthenis/turtle-graphics) - Command a relative cursor (turtle) to draw vector graphics.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
