@@ -308,7 +308,7 @@ Here are some notable ones:
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://pbs.twimg.com/profile_images/696721467954692096/U9mNRM_j_400x400.png" width="100" /></a>
 --- | --- | --- | --- | ---
-[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Noah Hall](https://twitter.com/eeue56) | [Elm Weekly](https://twitter.com/elmweekly)
+[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Elm Weekly](https://twitter.com/elmweekly)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
