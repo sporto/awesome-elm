@@ -290,14 +290,17 @@ Here are some notable ones:
 
 *Good starting point for a new Elm project.*
 
+* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+* [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
+
+### Outdated
+
 * [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 * [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
 * [elmkit](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
 * [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app.
-* [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 * [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
-* [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
 
 **[:arrow_up: back to top](#table-of-contents)**
