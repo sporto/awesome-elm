@@ -25,6 +25,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Boilerplates](#boilerplates)
     - [Misc](#misc)
     - [Community and Support](#community-and-support)
+    - [Conferences](#conferences)
     - [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
@@ -65,7 +66,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
 * [Elm Flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
 * [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
-+ [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
+* [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -143,21 +144,33 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Watch great talks about Elm*
 
-* [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - A talk from the father of Elm about the philosophy behind the language.
-* [Richard Feldman: Make the Back-End Team Jealous: Elm in Production](http://www.youtube.com/watch?v=FV0DXNB94NE) - A talk about Elm and initial steps to use it in production.
-* [Richard Feldman: Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc) - A talk about how Elm manages side effects.
-* [Jamison Dance: Rethinking All Practices - Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8) - A talk given at React.js Conf 2016 about what Elm has to teach the JavaScript world and why JS devs should consider trying it.
-* [Richard Feldman: Introduction to Elm](https://www.youtube.com/watch?v=3_M2G9U51GA) - A talk that gives a broad, high-level introduction to Elm.
+### Playlists
+
+* [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
+* [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) - Feb 2019
+* [Elm Conf 2018](https://www.youtube.com/watch?v=28OdemxhfbU&list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) - All talks from elm-conf 2018
+* [Elm Conf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) - All talks from elm-conf 2017
+* [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - All talks from elm-conf 2016
+
+### Misc
+
+* [Dillon Kearns: Types Without Borders | 2018](https://www.youtube.com/watch?v=memIRXFSNkU) - elm-conf 2018 talk about end-to-end type-safety using external schemas like GraphQL.
+* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) - A talk given at React.js Conf 2016 about what Elm has to teach the JavaScript world and why JS devs should consider trying it.
+* [Richard Feldman: Introduction to Elm | 2016](https://www.youtube.com/watch?v=3_M2G9U51GA) - A talk that gives a broad, high-level introduction to Elm.
+* [Amitai Burstein: Frontend with Guarantees | 2016](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - A talk from You Gotta Love Frontend 2016
+* [Jessica Kerr: Adventures in Elm | 2016](https://www.youtube.com/watch?v=cgXhMc8M4X4) - A talk about the combination of functional programming with Elm at GOTO Chicago 2016.
+* [Aaron VonderHaar: Codevember | 2016 ](https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf) + [ElmLive](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw) - elm live video examples.
+* [Richard Feldman: Making impossible states impossible | 2016](https://www.youtube.com/watch?v=IcgmSRJHu_8) - A talk about modelling data structures in Elm in a way that makes invalid states unrepresentable
+* [Richard Feldman: Effects as Data | 2015](https://www.youtube.com/watch?v=6EdXaWfoslc) - A talk about how Elm manages side effects.
+* [Richard Feldman: Make the Back-End Team Jealous: Elm in Production | 2015](http://www.youtube.com/watch?v=FV0DXNB94NE) - A talk about Elm and initial steps to use it in production.
+* [Evan Czaplicki: Let's be mainstream! User focused design in Elm | 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE) - A talk from the father of Elm about the philosophy behind the language.
+
+### Tutorials
+
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
 * [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neat series of bite-sized Elm training videos, many of which are free.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
-* [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - All talks from elm-conf 2016
-* [Amitai Burstein: Frontend with Guarantees](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - A talk from You Gotta Love Frontend 2016
-* [Jessica Kerr: Adventures in Elm](https://www.youtube.com/watch?v=cgXhMc8M4X4) - A talk about the combination of functional programming with Elm at GOTO Chicago 2016.
-* [Aaron VonderHaar: Codevember 2016 ](https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf) + [ElmLive](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw) - elm live video examples.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
-* [Richard Feldman: Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) - A talk about modelling data structures in Elm in a way that makes invalid states unrepresentable
-* [Dillon Kearns: Types Without Borders](https://www.youtube.com/watch?v=memIRXFSNkU) - elm-conf 2018 talk about end-to-end type-safety using external schemas like GraphQL.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -313,6 +326,14 @@ Here are some notable ones:
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+## Conferences
+
+* [Elm Conf](https://2019.elm-conf.com/)
+* [Elm Europe](https://2019.elmeurope.org/)
+* [Elm in the spring](https://www.elminthespring.org/)
+* [Oslo Elm day](https://osloelmday.no/)
+
+**[:arrow_up: back to top](#table-of-contents)**
 
 ## Who to follow
 
