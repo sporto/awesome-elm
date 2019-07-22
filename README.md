@@ -230,7 +230,7 @@ Here are some notable ones:
 
 *Tools around Elm platform.*
 
-* [Elm Live](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 * [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
