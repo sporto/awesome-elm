@@ -17,7 +17,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Articles](#articles)
     - [Videos](#videos)
     - [Podcasts](#podcasts)
-    - [Beyond the DOM](#beyond-the-dom)
     - [Libraries](#libraries)
     - [Tools](#tools)
     - [Editor plugins](#editor-plugins)
@@ -26,6 +25,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Misc](#misc)
     - [Community and Support](#community-and-support)
     - [Conferences](#conferences)
+    - [Inspired by Elm](#inspired-by-elm)
+    - [Beyond the DOM](#beyond-the-dom)
     - [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
@@ -152,7 +153,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Conf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) - All talks from elm-conf 2017
 * [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - All talks from elm-conf 2016
 
-### Misc
+### Miscellaneous videos
 
 * [Dillon Kearns: Types Without Borders | 2018](https://www.youtube.com/watch?v=memIRXFSNkU) - elm-conf 2018 talk about end-to-end type-safety using external schemas like GraphQL.
 * [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) - A talk given at React.js Conf 2016 about what Elm has to teach the JavaScript world and why JS devs should consider trying it.
@@ -165,7 +166,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Richard Feldman: Make the Back-End Team Jealous: Elm in Production | 2015](http://www.youtube.com/watch?v=FV0DXNB94NE) - A talk about Elm and initial steps to use it in production.
 * [Evan Czaplicki: Let's be mainstream! User focused design in Elm | 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE) - A talk from the father of Elm about the philosophy behind the language.
 
-### Tutorials
+### Video tutorials
 
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
 * [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neat series of bite-sized Elm training videos, many of which are free.
@@ -181,7 +182,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community.
 
-### Individual episodes
+### Individual Podcast episodes
 
 * [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) - Elm with Evan Czaplicki.
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
@@ -197,17 +198,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
 
 **[:arrow_up: back to top](#table-of-contents)**
-
-
-## Beyond the DOM
-
-* [Elchemy](https://wende.github.io/elchemy/) - Compile your Elm code into idiomatic Elixir and by so, into the auto healing Erlang VM.
-* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations. You need to do the wiring to the UI by yourself. 
-* [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
-* [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
-* [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
-
-
 
 ## Libraries
 
@@ -369,6 +359,29 @@ Here are some notable ones:
 * [Oslo Elm day](https://osloelmday.no/)
 
 **[:arrow_up: back to top](#table-of-contents)**
+
+## Inspired by Elm
+
+*Projects inspired by Elm*
+
+* [Elchemy](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax 
+* [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
+
+**[:arrow_up: back to top](#table-of-contents)**
+
+
+## Beyond the DOM
+
+*At the moment Elm is heavily targeted towards the browser, here are some experiments on using Elm outside the DOM:*
+
+* [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
+* [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
+* [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+
+**[:arrow_up: back to top](#table-of-contents)**
+
 
 ## Who to follow
 
