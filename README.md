@@ -1,6 +1,10 @@
 
-# <img src="./elm-logo.png" width="26"> Awesome Elm
-
+<div align="center">
+    <img src="./assets/elm-logo.svg" height="180" width="180" />
+    <h1>Awesome Elm</h1>
+    <br />
+    <br />
+</div>
 
 > A community driven list of useful Elm tutorials, libraries and software.
 
