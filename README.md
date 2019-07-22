@@ -22,7 +22,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
     - [Boilerplates](#boilerplates)
-    - [Misc](#misc)
     - [Community and Support](#community-and-support)
     - [Conferences](#conferences)
     - [Inspired by Elm](#inspired-by-elm)
@@ -68,6 +67,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
 * [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
 * [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
+* [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -92,6 +92,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - a brief overview of Elm as a programming language.
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Beginners' course to Elm and Data
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - A non-beginner book about the practical aspects of developing Elm applications.
+* [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
@@ -123,14 +124,14 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm from a Business Perspective](http://www.gizra.com/content/elm-business-perspective/) - This article discusses topics about Elm from a business perspective
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - Some thoughts on Elm development by a Swedish startup.
 
-### Misc
+### Miscellaneous articles
 
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - Experiences on the Elm language.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - A blog with various topics about Elm.
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - An article describing the Elm architecture and how to build a simple application
 * [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
 
-### Outdated (Not relevant for current Elm architecture)
+### Outdated articles (Not relevant for current Elm architecture)
 
 * [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
 * [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612) - A blog post describing a possible approach to reducing TEA boilerplate. Useful for component libraries and anyone interested in seeing the amazing things you can do with function types.
@@ -205,6 +206,7 @@ You can find hundreds of high quality packages at:
 
 * [Elm packages](https://package.elm-lang.org/) - The official registry
 * [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
+* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
 Here are some notable ones:
 
@@ -236,6 +238,8 @@ Here are some notable ones:
 ### Run Elm
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
+* [runelm.io](https://runelm.io) - A place to share and run Elm code.
+* [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 
@@ -321,21 +325,6 @@ Here are some notable ones:
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 * [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
-
-**[:arrow_up: back to top](#table-of-contents)**
-
-
-## Misc
-
-*Everything that you need to see.*
-
-* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
-* [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
-* [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
-* [runelm.io](https://runelm.io) - A place to share and run Elm code.
-* [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
-* [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
-* [Elm on Alpine](https://github.com/wunsh/docker-alpine-elm) - The full working Docker image of Elm language built on top of Alpine. An easy way to start with Elm. No any system-wide dependencies except for Docker.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
