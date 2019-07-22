@@ -233,23 +233,28 @@ Here are some notable ones:
 
 *Tools around Elm platform.*
 
-* [elm-compiler](https://github.com/elm-lang/elm-compiler) - Compiler for the Elm programming language.
-* [elm-make](https://github.com/elm-lang/elm-make) - A build tool for Elm projects.
-* [elm-reactor](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs.
-* [elm-live](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
-* [elm-repl](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
-* [elm-package](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
-* [elm-format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
-* [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
-* [servelm](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm.
-* [elm-oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
-* [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
-* [elm-analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-* [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
+* [Elm Live](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
+* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
+* [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate Typescript definitions from Elm.
+* [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
+
+### Run Elm
+
+* [Ellie](https://ellie-app.com/) - The Elm Live Editor
+* [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
+* [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
+
+### Compile and bundle
+
+* [elm-compiler](https://github.com/elm/compiler) - Compiler for the Elm programming language.
+* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
+* [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
+* [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
