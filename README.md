@@ -31,7 +31,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Beyond the DOM](#beyond-the-dom)
     - [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
-- <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
+- <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
 
 ## Examples
