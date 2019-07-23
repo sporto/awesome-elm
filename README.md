@@ -361,6 +361,7 @@ Here are some notable ones:
 * [Elchemy](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
 * [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 * [Fabulous](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+* [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 
