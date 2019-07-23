@@ -8,7 +8,7 @@
 
 > A community driven list of useful Elm tutorials, libraries and software.
 
-Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
+Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -407,4 +407,3 @@ Awesome Elm is just a part of awesome thing, get more here:
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [@isRuslan](https://github.com/isRuslan) has waived all copyright and related or neighboring rights to this work.
