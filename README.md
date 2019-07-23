@@ -245,7 +245,6 @@ Here are some notable ones:
 ### Run Elm
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
-* [runelm.io](https://runelm.io) - A place to share and run Elm code.
 * [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
@@ -278,7 +277,7 @@ Here are some notable ones:
 
 ### IntelliJ
 
-* [elm-plugin](https://plugins.jetbrains.com/plugin/8192) - Elm plugin for IntelliJ IDEA.
+* [elm-plugin](https://github.com/klazuka/intellij-elm) - Elm plugin for IntelliJ IDEA.
 
 ### Sublime Text
 
@@ -385,7 +384,7 @@ Here are some notable ones:
 
 *Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
 
-<a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://pbs.twimg.com/profile_images/696721467954692096/U9mNRM_j_400x400.png" width="100" /></a>
+<a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Elm Weekly](https://twitter.com/elmweekly)
 
