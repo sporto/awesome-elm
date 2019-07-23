@@ -6,9 +6,7 @@
     <br />
 </div>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[![Build Status](https://travis-ci.org/sporto/awesome-elm.svg)](https://travis-ci.org/sporto/awesome-elm)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sporto/awesome-elm.svg)](https://travis-ci.org/sporto/awesome-elm)
 
 > A community driven list of useful Elm tutorials, libraries and software.
 
