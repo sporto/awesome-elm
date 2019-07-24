@@ -19,6 +19,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Learn](#learn)
     - [Articles](#articles)
     - [Videos](#videos)
+    - [News](#news)
     - [Podcasts](#podcasts)
     - [Libraries](#libraries)
     - [Tools](#tools)
@@ -181,6 +182,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+## News
+
+* [Official Elm News](https://elm-lang.org/news) - Official Elm blog
+* [Elm Weekly](http://www.elmweekly.nl/) - A weekly newsletter about Elm
+* [Elm News](https://elm-news.com/) - All Elm news in one place
+* [Elm Greenwood](https://elm-greenwood.com/) - Elm packages releases
+* [Elm Reddit](https://www.reddit.com/r/elm/) - Elm news in Reddit
 
 ## Podcasts
 
