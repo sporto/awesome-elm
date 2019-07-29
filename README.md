@@ -236,7 +236,7 @@ Here are some notable ones:
 
 ## Tools
 
-*Tools around Elm platform.*
+*Useful tools related to Elm.*
 
 * [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 * [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
