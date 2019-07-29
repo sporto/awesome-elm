@@ -248,6 +248,7 @@ Here are some notable ones:
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer 
+* [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 
 ### Run Elm
 
