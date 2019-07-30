@@ -253,6 +253,7 @@ Here are some notable ones:
 * [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate Typescript definitions from Elm.
 * [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
+* [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
 
 ### Run Elm
 
