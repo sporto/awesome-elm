@@ -334,6 +334,7 @@ Here are some notable ones:
 * [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - Example showing hot module reloading for Elm 0.19 and Webpack
+* [Elm Batteries](https://github.com/cedricss/elm-batteries) - A project template and generator for Elm, Parcel, Cypress and Netlify  
 
 ### Outdated Boilerplates
 
