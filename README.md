@@ -73,7 +73,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
 * [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Learn
@@ -112,7 +112,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
 
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Articles
@@ -143,7 +143,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) - Series of Elm education tutorials.
 * [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - a realistic look at where Elm is and isn’t superior to other options.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Videos
@@ -180,7 +180,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 ## News
 
@@ -211,7 +211,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Full Stack Radio 44](http://www.fullstackradio.com/44) - What the heck is Elm? In this episode, Joel Clermont talks about Elm and functional programming.
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 ## Libraries
 
@@ -231,7 +231,7 @@ Here are some notable ones:
 * [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Tools
@@ -269,7 +269,7 @@ Here are some notable ones:
 * [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Editor plugins
@@ -314,7 +314,7 @@ Here are some notable ones:
 
 * [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Package managers
@@ -323,7 +323,7 @@ Here are some notable ones:
 
 * [elm-package](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Boilerplates
@@ -346,7 +346,7 @@ Here are some notable ones:
 * [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Community and Support
@@ -358,7 +358,7 @@ Here are some notable ones:
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
 * [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 ## Conferences
 
@@ -367,7 +367,7 @@ Here are some notable ones:
 * [Elm in the spring](https://www.elminthespring.org/)
 * [Oslo Elm day](https://osloelmday.no/)
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 ## Inspired by Elm
 
@@ -381,7 +381,7 @@ Here are some notable ones:
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 * [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Beyond the DOM
@@ -392,7 +392,7 @@ Here are some notable ones:
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## Who to follow
@@ -403,7 +403,7 @@ Here are some notable ones:
 --- | --- | --- | ---
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Elm Weekly](https://twitter.com/elmweekly)
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## More awesome
@@ -416,7 +416,7 @@ Awesome Elm is just a part of awesome thing, get more here:
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)
 
 
-**[:arrow_up: back to top](#table-of-contents)**
+**[:top: back to top](#table-of-contents)**
 
 
 ## License
