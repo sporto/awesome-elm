@@ -244,7 +244,8 @@ Here are some notable ones:
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
-* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer 
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 
 ### Code Generators
 
