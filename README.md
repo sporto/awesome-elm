@@ -22,6 +22,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [News](#news)
     - [Podcasts](#podcasts)
     - [Libraries](#libraries)
+    - [Testing](#testing)
     - [Tools](#tools)
     - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
@@ -232,6 +233,15 @@ Here are some notable ones:
 * [elm-ui](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
 * [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
+
+**[:top: back to top](#table-of-contents)**
+
+## Testing
+
+Tools and libraries to test your Elm applications
+
+* [Elm test](https://github.com/elm-explorations/test) - Unit and fuzz tests
+* [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
 
 **[:top: back to top](#table-of-contents)**
 
