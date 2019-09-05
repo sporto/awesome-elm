@@ -297,7 +297,7 @@ Here are some notable ones:
 
 ### Sublime Text
 
-* [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3.
+* [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
 
 ### Vim/Neovim
 
