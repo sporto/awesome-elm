@@ -65,6 +65,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ### Games
 
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
+* [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [Elm shooter](https://github.com/sporto/elm-shooter) - A side scrolling shotter
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
