@@ -298,6 +298,7 @@ Here are some notable ones:
 ### Sublime Text
 
 * [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
+* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
 
 ### Vim/Neovim
 
