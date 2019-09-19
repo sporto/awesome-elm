@@ -155,6 +155,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ### Playlists
 
+* [Elm Conf 2019](https://www.youtube.com/playlist?list=PLglJM3BYAMPGsAM4QTka7FwJ0xLPS0mkN) - Sep 2019
 * [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
 * [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) - Feb 2019
 * [Elm Conf 2018](https://www.youtube.com/watch?v=28OdemxhfbU&list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) - All talks from elm-conf 2018
