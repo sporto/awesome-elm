@@ -260,6 +260,7 @@ Tools and libraries to test your Elm applications
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
+* [elm-pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
 
 ### Code Generators
 
