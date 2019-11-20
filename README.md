@@ -386,6 +386,7 @@ Tools and libraries to test your Elm applications
 * [Elm Europe](https://2019.elmeurope.org/)
 * [Elm in the spring](https://www.elminthespring.org/)
 * [Oslo Elm day](https://osloelmday.no/)
+* [Elm Japan](https://elmjapan.org/)
 
 **[:top: back to top](#table-of-contents)**
 
