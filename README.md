@@ -393,7 +393,7 @@ Tools and libraries to test your Elm applications
 
 ## Inspired by Elm
 
-*Projects inspired by Elm*
+*Some projects influenced by Elm*
 
 * [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
 * [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
