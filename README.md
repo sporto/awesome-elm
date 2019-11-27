@@ -395,13 +395,14 @@ Tools and libraries to test your Elm applications
 
 *Projects inspired by Elm*
 
+* [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
+* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
 * [Elchemy](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
 * [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 * [Fabulous](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
-* [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [Iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
-* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 **[:top: back to top](#table-of-contents)**
 
