@@ -246,6 +246,7 @@ Tools and libraries to test your Elm applications
 
 * [Elm test](https://github.com/elm-explorations/test) - Unit and fuzz tests
 * [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) - Test complete Elm programs
+* [Elmer](https://github.com/brian-watkins/elmer) - Describe the behavior of Elm HTML applications
 
 **[:top: back to top](#table-of-contents)**
 
