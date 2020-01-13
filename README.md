@@ -21,11 +21,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Videos](#videos)
     - [News](#news)
     - [Podcasts](#podcasts)
-    - [Libraries](#libraries)
     - [Testing](#testing)
     - [Tools](#tools)
     - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
+    - [Libraries](#libraries)
     - [Boilerplates](#boilerplates)
     - [Frameworks](#frameworks)
     - [Community and Support](#community-and-support)
@@ -220,27 +220,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:top: back to top](#table-of-contents)**
 
-## Libraries
-
-You can find hundreds of high quality packages at:
-
-* [Elm packages](https://package.elm-lang.org/) - The official registry
-* [Elm Package Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
-* [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
-* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
-
-Here are some notable ones:
-
-* [core](https://github.com/elm/core) - Elm Core Libraries.
-* [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
-* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
-* [elm-ui](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
-* [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
-* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
-
-**[:top: back to top](#table-of-contents)**
-
 ## Testing
 
 Tools and libraries to test your Elm applications
@@ -348,6 +327,26 @@ Tools and libraries to test your Elm applications
 
 **[:top: back to top](#table-of-contents)**
 
+## Libraries
+
+You can find hundreds of high quality packages at:
+
+* [Elm packages](https://package.elm-lang.org/) - The official registry
+* [Elm Package Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
+* [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
+* [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
+
+Here are some notable ones:
+
+* [core](https://github.com/elm/core) - Elm Core Libraries.
+* [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
+* [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
+* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
+* [elm-ui](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
+* [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
+* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
+
+**[:top: back to top](#table-of-contents)**
 
 ## Boilerplates
 
