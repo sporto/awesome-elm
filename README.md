@@ -27,6 +27,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Editor plugins](#editor-plugins)
     - [Package managers](#package-managers)
     - [Boilerplates](#boilerplates)
+    - [Frameworks](#frameworks)
     - [Community and Support](#community-and-support)
     - [Conferences](#conferences)
     - [Inspired by Elm](#inspired-by-elm)
@@ -370,6 +371,13 @@ Tools and libraries to test your Elm applications
 
 **[:top: back to top](#table-of-contents)**
 
+## Frameworks
+
+*Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
+
+- [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
+
+https://www.elm-spa.dev/
 
 ## Community and Support
 
