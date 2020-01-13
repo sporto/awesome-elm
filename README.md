@@ -376,8 +376,6 @@ Here are some notable ones:
 
 - [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
 
-https://www.elm-spa.dev/
-
 ## Community and Support
 
 *Where to find help.*
