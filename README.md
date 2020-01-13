@@ -184,7 +184,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ### Video tutorials
 
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
-* [jadams's training videos](https://www.dailydrip.com/topics/elm) - A neat series of bite-sized Elm training videos, many of which are free.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
