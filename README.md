@@ -66,6 +66,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ### Games
 
+* [Circuit Breaker](https://martinsstewart.gitlab.io/hackman/) - A WebGL game in Elm - [Source](https://gitlab.com/MartinSStewart/hackman/)
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
 * [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
 * [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
