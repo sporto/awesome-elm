@@ -353,6 +353,7 @@ Here are some notable ones:
 *Good starting point for a new Elm project.*
 
 * [create-elm-app](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+* [elm-boil](https://github.com/GioPat/elm-boil) - Command Line Utility for creating an Elm boilerplate project easy to run, build and get deployed
 * [elm-live](https://github.com/wking-io/elm-live) - A flexible dev server for Elm. Live reload included.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) - Elm webpack 4 starter template.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - Example showing hot module reloading for Elm 0.19 and Webpack
