@@ -375,6 +375,7 @@ Here are some notable ones:
 *Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
 
 - [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
+- [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
 
 ## Community and Support
 
