@@ -258,6 +258,7 @@ Tools and libraries to test your Elm applications
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
+* [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
 
 ### Run Elm
 
