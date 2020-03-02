@@ -314,7 +314,7 @@ Tools and libraries to test your Elm applications
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
 
 
-### Other
+### Other tools
 
 * [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
@@ -381,6 +381,8 @@ Here are some notable ones:
 - [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
 
 ## Community and Support
+
+* [Companies using Elm](https://github.com/jah2488/elm-companies) - A list of companies using Elm in production.
 
 *Where to find help.*
 
