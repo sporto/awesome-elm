@@ -237,16 +237,17 @@ Tools and libraries to test your Elm applications
 
 *Useful tools related to Elm.*
 
-* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
-* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-* [elm-review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
+* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm JSON](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
+* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
-* [elm-pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 
 ### Code Generators
 
