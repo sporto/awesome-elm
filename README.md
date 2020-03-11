@@ -339,7 +339,6 @@ You can find hundreds of high quality packages at:
 
 * [Elm packages](https://package.elm-lang.org/) - The official registry
 * [Elm Package Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
-* [Elm finder](https://www.elmfinder.org/) - A directory of reusable libraries and tools for your Elm projects
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
 Here are some notable ones:
