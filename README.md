@@ -104,6 +104,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - A non-beginner book about the practical aspects of developing Elm applications.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 * [A nice app on Elm street](https://madewithlove.be/using-elm-with-react-a-nice-app-on-elm-street) - An introduction to Elm
+* [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) Building web applications in [F#](https://dotnet.microsoft.com/languages/fsharp) following The Elm Architecture from first principles. 
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
@@ -117,7 +118,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 * [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
-
 
 **[:top: back to top](#table-of-contents)**
 
