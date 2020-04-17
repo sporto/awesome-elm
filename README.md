@@ -195,6 +195,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Official Elm News](https://elm-lang.org/news) - Official Elm blog
 * [Elm Weekly](http://www.elmweekly.nl/) - A weekly newsletter about Elm
+* [Elm Bits](https://elmbits.com/) - A free weekly newsletter about Elm featuring hand-picked news, articles, books, events, tools, and libraries.
 * [Elm News](https://elm-news.com/) - All Elm news in one place
 * [Elm Greenwood](https://elm-greenwood.com/) - Elm packages releases
 * [Elm Reddit](https://www.reddit.com/r/elm/) - Elm news in Reddit
