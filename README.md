@@ -304,8 +304,10 @@ Tools and libraries to test your Elm applications
 
 ### Sublime Text
 
-* [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
+* [LSP-elm](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
 * [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
+* [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
+* [Elm Format on Save](https://github.com/evancz/elm-format-on-save) - Sublime Text plugin to run elm-format on save.
 
 ### Vim/Neovim
 
