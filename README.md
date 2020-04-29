@@ -203,7 +203,7 @@ Tools and libraries to test your Elm applications
 
 *Useful tools related to Elm.*
 
-* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm-package.json.
+* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
 * [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
