@@ -3,7 +3,6 @@
     <img src="./assets/elm-logo.svg" height="180" width="180" />
     <h1>Awesome Elm</h1>
     <br />
-    <br />
 </div>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sporto/awesome-elm.svg)](https://travis-ci.org/sporto/awesome-elm)
