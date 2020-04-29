@@ -14,72 +14,28 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 
 ## Table of Contents
-- [Awesome Elm](#awesome-elm)
-    - [Examples](#examples)
-    - [Learn](#learn)
-    - [Articles](#articles)
-    - [Videos](#videos)
-    - [News](#news)
-    - [Podcasts](#podcasts)
-    - [Testing](#testing)
-    - [Tools](#tools)
-    - [Editor plugins](#editor-plugins)
-    - [Package managers](#package-managers)
-    - [Libraries](#libraries)
-    - [Boilerplates](#boilerplates)
-    - [Frameworks](#frameworks)
-    - [Community and Support](#community-and-support)
-    - [Conferences](#conferences)
-    - [Inspired by Elm](#inspired-by-elm)
-    - [Beyond the DOM](#beyond-the-dom)
-    - [Who to follow](#who-to-follow)
+- [Learn](#learn)
+- [Articles](#articles)
+- [Videos](#videos)
+- [News](#news)
+- [Podcasts](#podcasts)
+- [Testing](#testing)
+- [Tools](#tools)
+- [Editor plugins](#editor-plugins)
+- [Package managers](#package-managers)
+- [Libraries](#libraries)
+- [Boilerplates](#boilerplates)
+- [Frameworks](#frameworks)
+- [Examples](#examples)
+- [Community and Support](#community-and-support)
+- [Conferences](#conferences)
+- [Inspired by Elm](#inspired-by-elm)
+- [Beyond the DOM](#beyond-the-dom)
+- [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
-
-## Examples
-
-*Some good apps written in Elm.*
-
-* [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
-* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
-* [Elm Example App](https://github.com/sporto/elm-example-app) - A small SPA example in Elm to learn the basics
-* [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
-* [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
-* [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
-* [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
-* [Gipher](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
-* [Collection of examples](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
-* [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
-* [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
-* [Elm Architecture in Android](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
-* [Elm + Phoenix + Webpack](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
-* [Spotify Mapper](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
-* [Pokelmon](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
-* [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
-* [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - Chrome extension built in Elm that shows the bitcoin value in all Brazilian exchanges.
-* [Elmstagram](https://github.com/bkbooth/Elmstagram) - Basic UI Clone of Instagram / Articles - [Part 1](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
-* [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
-* [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
-* [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
-* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
-* [Ari's Garden](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
-
-### Games
-
-* [Circuit Breaker](https://martinsstewart.gitlab.io/hackman/) - A WebGL game in Elm - [Source](https://gitlab.com/MartinSStewart/hackman/)
-* [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
-* [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
-* [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
-* [Elm shooter](https://github.com/sporto/elm-shooter) - A side scrolling shotter
-* [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
-* [Elm Flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
-* [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
-* [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
-* [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
-
-**[:top: back to top](#table-of-contents)**
-
+---
 
 ## Learn
 
@@ -121,6 +77,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## Articles
 
@@ -152,6 +109,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## Videos
 
@@ -191,6 +149,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:top: back to top](#table-of-contents)**
 
+---
+
 ## News
 
 * [Official Elm News](https://elm-lang.org/news) - Official Elm blog
@@ -199,6 +159,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm News](https://elm-news.com/) - All Elm news in one place
 * [Elm Greenwood](https://elm-greenwood.com/) - Elm packages releases
 * [Elm Reddit](https://www.reddit.com/r/elm/) - Elm news in Reddit
+
+---
 
 ## Podcasts
 
@@ -225,6 +187,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **[:top: back to top](#table-of-contents)**
 
+---
+
 ## Testing
 
 Tools and libraries to test your Elm applications
@@ -235,6 +199,7 @@ Tools and libraries to test your Elm applications
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## Tools
 
@@ -281,6 +246,7 @@ Tools and libraries to test your Elm applications
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## Editor plugins
 
@@ -323,12 +289,13 @@ Tools and libraries to test your Elm applications
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
 
 
-### Other tools
+### Other editors
 
 * [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## Package managers
 
@@ -337,6 +304,8 @@ Tools and libraries to test your Elm applications
 * [elm-package](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
 **[:top: back to top](#table-of-contents)**
+
+---
 
 ## Libraries
 
@@ -357,6 +326,8 @@ Here are some notable ones:
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
 
 **[:top: back to top](#table-of-contents)**
+
+---
 
 ## Boilerplates
 
@@ -381,12 +352,61 @@ Here are some notable ones:
 
 **[:top: back to top](#table-of-contents)**
 
+---
+
 ## Frameworks
 
 *Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
 
 - [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
 - [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
+
+---
+
+## Examples
+
+*Some good apps written in Elm.*
+
+* [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
+* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
+* [Elm Example App](https://github.com/sporto/elm-example-app) - A small SPA example in Elm to learn the basics
+* [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
+* [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
+* [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
+* [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
+* [Gipher](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
+* [Collection of examples](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
+* [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
+* [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
+* [Elm Architecture in Android](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
+* [Elm + Phoenix + Webpack](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
+* [Spotify Mapper](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
+* [Pokelmon](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
+* [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
+* [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - Chrome extension built in Elm that shows the bitcoin value in all Brazilian exchanges.
+* [Elmstagram](https://github.com/bkbooth/Elmstagram) - Basic UI Clone of Instagram / Articles - [Part 1](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
+* [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
+* [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
+* [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
+* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
+* [Ari's Garden](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
+
+### Games
+
+* [Circuit Breaker](https://martinsstewart.gitlab.io/hackman/) - A WebGL game in Elm - [Source](https://gitlab.com/MartinSStewart/hackman/)
+* [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
+* [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
+* [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
+* [Elm shooter](https://github.com/sporto/elm-shooter) - A side scrolling shotter
+* [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
+* [Elm Flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
+* [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
+* [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
+* [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
+
+**[:top: back to top](#table-of-contents)**
+
+---
 
 ## Community and Support
 
@@ -401,6 +421,8 @@ Here are some notable ones:
 
 **[:top: back to top](#table-of-contents)**
 
+---
+
 ## Conferences
 
 * [Elm Conf](https://2019.elm-conf.com/)
@@ -410,6 +432,8 @@ Here are some notable ones:
 * [Elm Japan](https://elmjapan.org/)
 
 **[:top: back to top](#table-of-contents)**
+
+---
 
 ## Inspired by Elm
 
@@ -426,6 +450,7 @@ Here are some notable ones:
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## Beyond the DOM
 
@@ -437,6 +462,7 @@ Here are some notable ones:
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## Who to follow
 
@@ -448,6 +474,7 @@ Here are some notable ones:
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## More awesome
 
@@ -461,6 +488,7 @@ Awesome Elm is just a part of awesome thing, get more here:
 
 **[:top: back to top](#table-of-contents)**
 
+---
 
 ## License
 
