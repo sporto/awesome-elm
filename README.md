@@ -203,6 +203,7 @@ Tools and libraries to test your Elm applications
 
 *Useful tools related to Elm.*
 
+* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools. 
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
@@ -310,7 +311,7 @@ Tools and libraries to test your Elm applications
 You can find hundreds of high quality packages at:
 
 * [Elm packages](https://package.elm-lang.org/) - The official registry
-* [Elm Package Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
+* [Elm Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
 Here are some notable ones:
