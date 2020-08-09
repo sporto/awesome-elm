@@ -392,16 +392,8 @@ Here are some notable ones:
 
 ### Games
 
-* [Circuit Breaker](https://martinsstewart.gitlab.io/hackman/) - A WebGL game in Elm - [Source](https://gitlab.com/MartinSStewart/hackman/)
-* [Elm Joust](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
-* [First Person Elm](https://github.com/jeffcole/first-person-elm) - A demo of first person navigation in 3D using WebGL and ports for browser APIs
-* [Vessel](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
-* [Elm shooter](https://github.com/sporto/elm-shooter) - A side scrolling shotter
-* [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
-* [Elm Flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
-* [Elm Hangman](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
-* [Seeds](https://github.com/andrewMacmurray/seeds-game) is a "connect the dots" game written in **Elm v.0.19**. Play it online: [seedsgame.com](https://www.seedsgame.com)
-* [404 Elm Street](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
+* [elm-games](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
+
 
 **[:top: back to top](#table-of-contents)**
 
