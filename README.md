@@ -60,6 +60,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 * [A nice app on Elm street](https://madewithlove.be/using-elm-with-react-a-nice-app-on-elm-street) - An introduction to Elm
 * [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) Building web applications in [F#](https://dotnet.microsoft.com/languages/fsharp) following The Elm Architecture from first principles. 
+* [Elm patterns](https://sporto.github.io/elm-patterns/) - A collection of coding patterns.
+* [Codings hints](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
+* [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
+* [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
