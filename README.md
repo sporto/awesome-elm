@@ -444,6 +444,7 @@ Here are some notable ones:
 * [Iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET Multi-platform App UI
 
 **[:top: back to top](#table-of-contents)**
 
