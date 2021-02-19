@@ -438,7 +438,7 @@ Here are some notable ones:
 *Some projects influenced by Elm*
 
 * [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
-* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
+* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) - The Elm Architecture based on OCaml / Reason and [Bucklescript](https://bucklescript.github.io/)
 * [Elchemy](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
 * [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 * [Fabulous](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
@@ -446,6 +446,7 @@ Here are some notable ones:
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET Multi-platform App UI
+* [Oolong](https://oolong-kt.org/) - An Elm inspired Model-View-Update (MVU) implementation for Kotlin multiplatform.
 
 **[:top: back to top](#table-of-contents)**
 
