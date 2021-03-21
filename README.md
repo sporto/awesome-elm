@@ -40,7 +40,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Learn what this awesome thing is.*
 
 * [Official tutorial](http://elm-lang.org/docs) — General information and in-depth guide with examples.
-* [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) — In-depth book for Elm beginners, from Manning Publications.
+* [Elm in Action](https://www.manning.com/books/elm-in-action) — In-depth book for Elm beginners, from Manning Publications.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
 * [Exercism Elm Track](http://exercism.io/languages/elm) - Collection of Elm exercises.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
@@ -146,7 +146,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ### Video tutorials
 
-* [Egghead.io: Elm videos](https://egghead.io/technologies/elm) - Egghead's Elm video training, many of which are free.
+* [Egghead.io: Elm videos](https://egghead.io/q?q=elm) - Egghead's Elm video training, many of which are free.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
@@ -175,10 +175,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ### Individual Podcast episodes
 
-* [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) - Elm with Evan Czaplicki.
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - Richard Feldman and Tessa Kelly.
-* [The Changelog 218](https://changelog.com/218/) - Elm with Evan Czaplicki and Richard Feldman
-* [The Changelog 191](https://changelog.com/191/) - Elm and Functional Programming with Richard Feldman.
+* [The Changelog 218](https://changelog.com/podcast/218) - Elm with Evan Czaplicki and Richard Feldman
+* [The Changelog 191](https://changelog.com/podcast/191/) - Elm and Functional Programming with Richard Feldman.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
 * [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - Elm with Evan Czaplicki and Richard Feldman.
 * [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - Elm with Richard Feldman and Evan Czaplicki.
