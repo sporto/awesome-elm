@@ -220,6 +220,7 @@ Tools and libraries to test your Elm applications
 * [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
 
 ### Code Generators
 
