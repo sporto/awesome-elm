@@ -227,7 +227,6 @@ Tools and libraries to test your Elm applications
 * [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
 * [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
-* [Elm JSON Interop](https://github.com/pravdomil/elm-json-interop) - Generate JSON encoders/decoders and TypeScript definitions from Elm files.
 * [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
