@@ -220,6 +220,7 @@ Tools and libraries to test your Elm applications
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
+* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
 
 ### Code Generators
 
