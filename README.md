@@ -292,6 +292,7 @@ You can find hundreds of high quality packages at:
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
 * [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+* [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm
 
 ### Static analysis
 
