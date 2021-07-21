@@ -221,6 +221,7 @@ Tools and libraries to test your Elm applications
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
 * [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
+* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
 ### Code Generators
 
