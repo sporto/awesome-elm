@@ -18,6 +18,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [News](#news)
 - [Podcasts](#podcasts)
 - [Testing](#testing)
+- [Code Generators](#code-generators)
 - [Tools](#tools)
 - [Editor plugins](#editor-plugins)
 - [Package managers](#package-managers)
@@ -203,6 +204,22 @@ Tools and libraries to test your Elm applications
 
 ---
 
+## Code Generators
+
+* [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
+* [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
+* [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
+* [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
+* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
+* [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
+* [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
+* [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
 ## Tools
 
 *Useful tools related to Elm.*
@@ -226,18 +243,6 @@ Tools and libraries to test your Elm applications
 
 * [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
-
-### Code Generators
-
-* [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
-* [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
-* [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
-* [Quicktype](https://github.com/quicktype/quicktype) - Generate JSON decoders and encoders from JSON
-* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
-* [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
-* [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
-* [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
 
 ### View showcase generators
 
