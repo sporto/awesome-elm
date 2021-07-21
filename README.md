@@ -25,6 +25,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Frameworks](#frameworks)
 - [Static analysis](#static-analysis)
 - [Static site generators](#static-site-generators)
+- [Showcase generators](#showcase-generators)
 - [Tools](#tools)
 - [Run Elm](#run-elm)
 - [Compile and bundle](#compile-and-bundle)
@@ -299,6 +300,15 @@ You can find hundreds of high quality packages at:
 
 ---
 
+## Showcase generators
+
+* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
+* [Elm UI Explorer](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
 ## Tools
 
 *Useful tools related to Elm.*
@@ -313,13 +323,6 @@ You can find hundreds of high quality packages at:
 * [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
 * [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 * [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm
-
-### View showcase generators
-
-* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
-* [Elm UI Explorer](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
-
-**[:top: back to top](#table-of-contents)**
 
 ---
 
