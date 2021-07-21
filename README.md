@@ -207,7 +207,7 @@ Tools and libraries to test your Elm applications
 
 *Useful tools related to Elm.*
 
-* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools. 
+* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools.
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
 * [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
@@ -331,16 +331,6 @@ You can find hundreds of high quality packages at:
 * [Elm packages](https://package.elm-lang.org/) - The official registry
 * [Elm Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
-
-Here are some notable ones:
-
-* [core](https://github.com/elm/core) - Elm Core Libraries.
-* [html](https://github.com/elm/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test](https://github.com/elm-explorations/test) - A unit testing framework for Elm.
-* [http](https://github.com/elm/http) - Make HTTP requests in Elm.
-* [elm-ui](https://github.com/mdgriffith/elm-ui) - UI Library in Elm.
-* [elm-css](https://github.com/rtfeldman/elm-css) - CSS in Elm.
-* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
 
 **[:top: back to top](#table-of-contents)**
 
