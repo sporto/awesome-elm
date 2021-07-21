@@ -19,12 +19,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Podcasts](#podcasts)
 - [Testing](#testing)
 - [Code Generators](#code-generators)
-- [Tools](#tools)
 - [Editor plugins](#editor-plugins)
 - [Package managers](#package-managers)
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
+- [Tools](#tools)
 - [Examples](#examples)
 - [Community and Support](#community-and-support)
 - [Conferences](#conferences)
@@ -220,56 +220,6 @@ Tools and libraries to test your Elm applications
 
 ---
 
-## Tools
-
-*Useful tools related to Elm.*
-
-* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools.
-* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
-* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
-* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Elm JSON](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
-* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
-* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
-* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
-
-### Static analysis
-
-* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
-
-### Static site generators
-
-* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
-* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
-
-### View showcase generators
-
-* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
-* [Elm UI Explorer](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
-
-### Run Elm
-
-* [Ellie](https://ellie-app.com/) - The Elm Live Editor
-* [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor
-* [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
-* [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
-* [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
-* [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
-* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
-
-### Compile and bundle
-
-* [elm-compiler](https://github.com/elm/compiler) - Compiler for the Elm programming language.
-* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
-* [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
-* [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
-
-**[:top: back to top](#table-of-contents)**
-
----
-
 ## Editor plugins
 
 *Tools to support Elm in code editors.*
@@ -373,6 +323,56 @@ You can find hundreds of high quality packages at:
 
 - [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
 - [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
+
+---
+
+## Tools
+
+*Useful tools related to Elm.*
+
+* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools.
+* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm JSON](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
+* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
+* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+
+### Static analysis
+
+* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
+
+### Static site generators
+
+* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
+
+### View showcase generators
+
+* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
+* [Elm UI Explorer](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
+
+### Run Elm
+
+* [Ellie](https://ellie-app.com/) - The Elm Live Editor
+* [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor
+* [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL
+* [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
+* [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
+* [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
+
+### Compile and bundle
+
+* [elm-compiler](https://github.com/elm/compiler) - Compiler for the Elm programming language.
+* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
+* [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
+* [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
+
+**[:top: back to top](#table-of-contents)**
 
 ---
 
