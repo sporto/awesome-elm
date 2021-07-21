@@ -26,9 +26,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Static analysis](#static-analysis)
 - [Static site generators](#static-site-generators)
 - [Showcase generators](#showcase-generators)
-- [Tools](#tools)
 - [Run Elm](#run-elm)
 - [Compile and bundle](#compile-and-bundle)
+- [Other tools](#other-tools)
 - [Editor plugins](#editor-plugins)
 - [Examples](#examples)
 - [Community and Support](#community-and-support)
@@ -309,23 +309,6 @@ You can find hundreds of high quality packages at:
 
 ---
 
-## Tools
-
-*Useful tools related to Elm.*
-
-* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools.
-* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
-* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
-* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
-* [Elm JSON](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
-* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
-* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
-* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
-* [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm
-
----
-
 ## Run Elm
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
@@ -346,6 +329,25 @@ You can find hundreds of high quality packages at:
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Other tools
+
+*Useful tools related to Elm.*
+
+* [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools.
+* [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
+* [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [Elm JSON](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
+* [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
+* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+* [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm
 
 **[:top: back to top](#table-of-contents)**
 
