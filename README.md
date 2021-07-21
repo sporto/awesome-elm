@@ -19,12 +19,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Podcasts](#podcasts)
 - [Testing](#testing)
 - [Code Generators](#code-generators)
-- [Editor plugins](#editor-plugins)
 - [Package managers](#package-managers)
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
 - [Tools](#tools)
+- [Editor plugins](#editor-plugins)
 - [Examples](#examples)
 - [Community and Support](#community-and-support)
 - [Conferences](#conferences)
@@ -220,55 +220,6 @@ Tools and libraries to test your Elm applications
 
 ---
 
-## Editor plugins
-
-*Tools to support Elm in code editors.*
-
-### Atom
-
-* [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor.
-* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
-* [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor.
-* [elmjutsu](https://atom.io/packages/elmjutsu) - Autocompletion, go to definition, find usages, rename symbol, etc. for the Atom editor.
-* [atom-elm-navigator](https://atom.io/packages/elm-navigator) - A side panel that helps to navigate to any function, type definition or port in your project.
-
-### Emacs
-
-* [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
-
-### IntelliJ
-
-* [elm-plugin](https://github.com/klazuka/intellij-elm) - Elm plugin for IntelliJ IDEA.
-
-### Sublime Text
-
-* [LSP-elm](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
-* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
-* [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
-* [Elm Format on Save](https://github.com/evancz/elm-format-on-save) - Sublime Text plugin to run elm-format on save.
-
-### Vim/Neovim
-
-* [theJian/elm.vim](https://github.com/theJian/elm.vim) - Elm syntax highlighting. Use with [ale or Neoformat for Neovim](https://github.com/avh4/elm-format/issues/610) since ElmCast/elm-vim does not support Elm 0.19.
-* [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) - Elm 0.18 mode for Vim/Neovim.
-* [vim-elm-help](https://github.com/hoelzro/vim-elm-help) - Offline Elm documentation access in your editor.
-* [emmet-vim](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
-
-### Visual Studio Code
-
-* [ElmLS](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode) - Elm Language Server integration
-* [Elmmet: Emmet for Elm (Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) - Emmetio abbreviation expander into composition of Elm function with elm-format'er inside.
-* [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
-
-
-### Other editors
-
-* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
-
-**[:top: back to top](#table-of-contents)**
-
----
-
 ## Package managers
 
 *Place to share Elm libraries.*
@@ -371,6 +322,55 @@ You can find hundreds of high quality packages at:
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Editor plugins
+
+*Tools to support Elm in code editors.*
+
+### Atom
+
+* [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) - Elm code linter for the Atom editor.
+* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
+* [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor.
+* [elmjutsu](https://atom.io/packages/elmjutsu) - Autocompletion, go to definition, find usages, rename symbol, etc. for the Atom editor.
+* [atom-elm-navigator](https://atom.io/packages/elm-navigator) - A side panel that helps to navigate to any function, type definition or port in your project.
+
+### Emacs
+
+* [emacs-elm-mode](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
+
+### IntelliJ
+
+* [elm-plugin](https://github.com/klazuka/intellij-elm) - Elm plugin for IntelliJ IDEA.
+
+### Sublime Text
+
+* [LSP-elm](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
+* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
+* [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
+* [Elm Format on Save](https://github.com/evancz/elm-format-on-save) - Sublime Text plugin to run elm-format on save.
+
+### Vim/Neovim
+
+* [theJian/elm.vim](https://github.com/theJian/elm.vim) - Elm syntax highlighting. Use with [ale or Neoformat for Neovim](https://github.com/avh4/elm-format/issues/610) since ElmCast/elm-vim does not support Elm 0.19.
+* [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) - Elm 0.18 mode for Vim/Neovim.
+* [vim-elm-help](https://github.com/hoelzro/vim-elm-help) - Offline Elm documentation access in your editor.
+* [emmet-vim](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
+
+### Visual Studio Code
+
+* [ElmLS](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode) - Elm Language Server integration
+* [Elmmet: Emmet for Elm (Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) - Emmetio abbreviation expander into composition of Elm function with elm-format'er inside.
+* [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
+
+
+### Other editors
+
+* [elm-light-table](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 
 **[:top: back to top](#table-of-contents)**
 
