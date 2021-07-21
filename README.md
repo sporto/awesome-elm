@@ -24,6 +24,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
 - [Static analysis](#static-analysis)
+- [Static site generators](#static-site-generators)
 - [Tools](#tools)
 - [Run Elm](#run-elm)
 - [Compile and bundle](#compile-and-bundle)
@@ -289,6 +290,15 @@ You can find hundreds of high quality packages at:
 
 ---
 
+## Static site generators
+
+* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
 ## Tools
 
 *Useful tools related to Elm.*
@@ -303,12 +313,6 @@ You can find hundreds of high quality packages at:
 * [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
 * [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 * [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm
-
-
-### Static site generators
-
-* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
-* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 
 ### View showcase generators
 
