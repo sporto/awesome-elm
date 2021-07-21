@@ -18,12 +18,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [News](#news)
 - [Podcasts](#podcasts)
 - [Testing](#testing)
-- [Code Generators](#code-generators)
+- [Code generators](#code-generators)
 - [Package managers](#package-managers)
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
 - [Tools](#tools)
+- [Compile and bundle](#compile-and-bundle)
 - [Editor plugins](#editor-plugins)
 - [Examples](#examples)
 - [Community and Support](#community-and-support)
@@ -204,7 +205,7 @@ Tools and libraries to test your Elm applications
 
 ---
 
-## Code Generators
+## Code generators
 
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - Generate OpenApi types for Elm.
@@ -316,7 +317,11 @@ You can find hundreds of high quality packages at:
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
 * [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 
-### Compile and bundle
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Compile and bundle
 
 * [elm-compiler](https://github.com/elm/compiler) - Compiler for the Elm programming language.
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
