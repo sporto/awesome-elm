@@ -209,19 +209,23 @@ Tools and libraries to test your Elm applications
 
 * [Elm Catalog](https://korban.net/elm/catalog) - A catalog of Elm tools. 
 * [Dependabot](https://dependabot.com) - Automatic update PRs for your elm.json.
-* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - Elm offline documentation previewer.
 * [Elm Format](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [Elm JSON](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies
-* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
-* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
-* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
-* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
 * [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
+
+### Static analysis
+
+* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
+
+### Static site generators
+
+* [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
+* [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
 
 ### Code Generators
 
@@ -235,6 +239,11 @@ Tools and libraries to test your Elm applications
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
 * [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
 
+### View showcase generators
+
+* [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
+* [Elm UI Explorer](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
+
 ### Run Elm
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
@@ -243,6 +252,7 @@ Tools and libraries to test your Elm applications
 * [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
+* [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
 
 ### Compile and bundle
 
