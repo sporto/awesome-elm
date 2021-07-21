@@ -23,6 +23,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
+- [Static analysis](#static-analysis)
 - [Tools](#tools)
 - [Run Elm](#run-elm)
 - [Compile and bundle](#compile-and-bundle)
@@ -279,6 +280,15 @@ You can find hundreds of high quality packages at:
 
 ---
 
+## Static analysis
+
+* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
 ## Tools
 
 *Useful tools related to Elm.*
@@ -294,10 +304,6 @@ You can find hundreds of high quality packages at:
 * [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 * [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm
 
-### Static analysis
-
-* [Elm Analyse](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
-* [Elm Review](https://github.com/jfmengels/elm-review) - Code reviewer for the Elm programming language.
 
 ### Static site generators
 
