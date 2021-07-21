@@ -24,6 +24,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Boilerplates](#boilerplates)
 - [Frameworks](#frameworks)
 - [Tools](#tools)
+- [Run Elm](#run-elm)
 - [Compile and bundle](#compile-and-bundle)
 - [Editor plugins](#editor-plugins)
 - [Examples](#examples)
@@ -307,7 +308,11 @@ You can find hundreds of high quality packages at:
 * [Elm Book](http://elm-book-in-elm-book.netlify.app) - Rich documentation builder based on Storybook and HexDocs.
 * [Elm UI Explorer](https://github.com/kalutheo/elm-ui-explorer) - Showcase your views and states.
 
-### Run Elm
+**[:top: back to top](#table-of-contents)**
+
+---
+
+## Run Elm
 
 * [Ellie](https://ellie-app.com/) - The Elm Live Editor
 * [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor
