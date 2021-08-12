@@ -493,6 +493,7 @@ You can find hundreds of high quality packages at:
 * [iOS](https://github.com/pzp1997/elm-ios) A POC for using Elm 0.18 for native iOS Applications
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
+* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
 
 **[:top: back to top](#table-of-contents)**
 
