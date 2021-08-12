@@ -70,6 +70,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Codings hints](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
 * [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
 * [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
+* [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
