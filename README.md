@@ -270,6 +270,7 @@ You can find hundreds of high quality packages at:
 * [elm-init](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
 * [elm-new](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - A very very basic elm + webpack 4 template.
+* [generator-elm-mdl](https://github.com/ashellwig/generator-elm-mdl) - Yeoman generator for a simple elm application utilizing Material Design.
 
 **[:top: back to top](#table-of-contents)**
 
