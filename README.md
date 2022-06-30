@@ -329,7 +329,7 @@ You can find hundreds of high quality packages at:
 
 * [elm-compiler](https://github.com/elm/compiler) - Compiler for the Elm programming language.
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
-* [Parcel](https://parceljs.org/elm.html) - Bundle Elm using Parcel
+* [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 
 **[:top: back to top](#table-of-contents)**
