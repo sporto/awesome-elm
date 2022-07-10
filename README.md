@@ -79,7 +79,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 * [Elm Tutorial](https://sporto.gitbooks.io/elm-tutorial/content/) - A tutorial on developing single page web applications with Elm.
-* [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - High overview of language features.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
@@ -187,8 +186,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [The Changelog 218](https://changelog.com/podcast/218) - Elm with Evan Czaplicki and Richard Feldman
 * [The Changelog 191](https://changelog.com/podcast/191/) - Elm and Functional Programming with Richard Feldman.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
-* [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - Elm with Evan Czaplicki and Richard Feldman.
-* [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - Elm with Richard Feldman and Evan Czaplicki.
 * [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - Functional Programming with Elm, ClojureScript, Om, and React.
 * [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - The Elm Programming Language.
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
