@@ -317,6 +317,7 @@ You can find hundreds of high quality packages at:
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
 * [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
+* [Elm Watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable.
 
 **[:top: back to top](#table-of-contents)**
 
