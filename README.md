@@ -434,7 +434,7 @@ You can find hundreds of high quality packages at:
 ### Games
 
 * [elm-games](https://github.com/rofrol/elm-games) - An excellent list of games made in Elm
-
+* [TheSpace App](https://github.com/thematters/thespace-app) - A reddit place like DApp with blockchain and canvas(through port) integration in Elm.
 
 **[:top: back to top](#table-of-contents)**
 
