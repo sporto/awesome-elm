@@ -219,6 +219,8 @@ Tools and libraries to test your Elm applications
 * [Elm Bridge](https://github.com/agrafix/elm-bridge) - Generate Elm types from Haskell
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
 * [PostCSS Elm Tailwind](https://github.com/monty5811/postcss-elm-tailwind) - Put some Tailwind in your Elm
+* [Travelm Agency](https://github.com/andreasewering/travelm-agency) - Generate typesafe Elm code from translation files
+* [Protoc Gen Elm](https://github.com/andreasewering/protoc-gen-elm) - Generate Protobuf En/Decoders from .proto files
 
 **[:top: back to top](#table-of-contents)**
 
@@ -329,6 +331,7 @@ You can find hundreds of high quality packages at:
 * [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
+* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - Vite Plugin for the Elm programming language.
 
 **[:top: back to top](#table-of-contents)**
 
