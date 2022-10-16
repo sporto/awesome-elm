@@ -177,7 +177,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Listen to podcasts about Elm*
 
 * [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community.
-* [Implementing Elm](https://www.implementingelm.com/) - A deep dive into specific problems to help the Elm community.
 * [Elm Radio](https://elm-radio.com) - Tune in to the tools and techniques in the Elm ecosystem.
 
 ### Individual Podcast episodes
