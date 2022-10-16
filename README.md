@@ -213,6 +213,7 @@ Tools and libraries to test your Elm applications
 * [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) - Generate Elm code
 * [Elm TS Interop](https://github.com/dillonkearns/elm-ts-json) - Build up Encoders/Decoders between Elm and TypeScript.
 * [Elm TypeScript Interop](https://github.com/dillonkearns/elm-typescript-interop) - Generate TypeScript definitions from Elm (`Elm TS Interop` is an improved version of this).
+* [elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate GraphQl client code from GraphQL schemas
 * [haskell-to-elm](https://github.com/folq/haskell-to-elm) - Generate Elm types, encoders, and decoders from Haskell types
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - Generates Elm types, JSON decoders, JSON encoders and fuzz tests from JSON schema specifications
