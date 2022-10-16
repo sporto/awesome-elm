@@ -176,8 +176,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Listen to podcasts about Elm*
 
-* [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community.
 * [Elm Radio](https://elm-radio.com) - Tune in to the tools and techniques in the Elm ecosystem.
+* [Elm Town](https://elmtown.github.io/) - A podcast about the people in the Elm community (Outdated).
 
 ### Individual Podcast episodes
 
@@ -326,11 +326,14 @@ You can find hundreds of high quality packages at:
 
 ## Compile and bundle
 
-* [elm-compiler](https://github.com/elm/compiler) - Compiler for the Elm programming language.
-* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader for the Elm programming language.
-* [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel
+* [elm-compiler](https://github.com/elm/compiler) - The official Elm compiler.
+* [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader) - Webpack loader Elm.
+* [Parcel](https://parceljs.org/languages/elm/) - Bundle Elm using Parcel.
+* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - Vite plugin for Elm.
+
+### Unmaintained
+
 * [grunt-elm](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
-* [vite-plugin-elm](https://github.com/hmsk/vite-plugin-elm) - Vite Plugin for the Elm programming language.
 
 **[:top: back to top](#table-of-contents)**
 
