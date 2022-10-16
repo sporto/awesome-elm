@@ -458,7 +458,7 @@ You can find hundreds of high quality packages at:
 * [Discourse](https://discourse.elm-lang.org/) - Elm Discourse instance (official forum).
 * [Reddit](https://www.reddit.com/r/elm) - Elm board on reddit.
 * [IRC](http://webchat.freenode.net/?channels=elm) - Ask questions on elm freenode.
-* [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
+* [Slack](https://elm-lang.org/community/slack) - Elm slack community.
 
 **[:top: back to top](#table-of-contents)**
 
