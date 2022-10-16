@@ -278,8 +278,9 @@ You can find hundreds of high quality packages at:
 
 *Projects that bring a framework approach to Elm (scaffolding, route generation, etc)*
 
-- [elm-spa](https://www.elm-spa.dev/) - single page apps made easy
-- [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world
+- [elm-spa](https://www.elm-spa.dev/) - Framework for making single page apps in Elm.
+- [Elm Land](https://elm.land/) - A framework for building Elm applications.
+- [Spades](https://github.com/rogeriochaves/spades) - Start an Elm SPA ready to the real world.
 
 ---
 
