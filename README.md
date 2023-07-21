@@ -472,6 +472,7 @@ You can find hundreds of high quality packages at:
 * [Elm in the spring](https://www.elminthespring.org/)
 * [Oslo Elm day](https://osloelmday.no/)
 * [Elm Japan](https://elmjapan.org/)
+* [Elm Camp](https://elm.camp/)
 
 **[:top: back to top](#table-of-contents)**
 
