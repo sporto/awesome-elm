@@ -440,6 +440,7 @@ You can find hundreds of high quality packages at:
 * [Ari's Garden](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 * [Bolster](https://github.com/tarbh-engineering/journal) - An end-to-end encrypted journal app.
 * [Conway's Game of Life](https://github.com/pecheneg2015/elm-conway-life) - Elm implementation of Conway's Game of Life. **Elm v.0.19**
+* [Regex Nodes](https://github.com/johannesvollmer/regex-nodes) - A [node-based visual editor for fiddling with regular expressions](https://johannesvollmer.com/regex-nodes/), built with Elm.
 
 ### Games
 
