@@ -36,7 +36,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Conferences](#conferences)
 - [Inspired by Elm](#inspired-by-elm)
 - [Beyond the DOM](#beyond-the-dom)
-- [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
@@ -514,18 +513,6 @@ You can find hundreds of high quality packages at:
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 * [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
-
-**[:top: back to top](#table-of-contents)**
-
----
-
-## Who to follow
-
-*Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
-
-<a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
---- | --- | --- | ---
-[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/evancz) | [Richard Feldman](https://twitter.com/rtfeldman) | [Elm Weekly](https://twitter.com/elmweekly)
 
 **[:top: back to top](#table-of-contents)**
 
