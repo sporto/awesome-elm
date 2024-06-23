@@ -73,18 +73,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
 * [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
 
-### Learning Videos
-
-* [Welcome to Elm](https://www.youtube.com/playlist?list=PLuGpJqnV9DXq_ItwwUoJOGk_uCr72Yvzb) - Video playlist about learning all the Elm fundamentals.
-* [Elm The Complete Guide](https://www.udemy.com/course/elm-the-complete-guide/) - Video tutorial including Elm UI, Elm Review, responsive design, tests and more.
-* [Egghead.io: Elm videos](https://egghead.io/q?q=elm) - Egghead's Elm video training, many of which are free.
-* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
-* [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
-
 **[:top: back to top](#table-of-contents)**
-
-
-https://www.youtube.com/playlist?list=PLuGpJqnV9DXq_ItwwUoJOGk_uCr72Yvzb
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
@@ -97,6 +86,18 @@ https://www.youtube.com/playlist?list=PLuGpJqnV9DXq_ItwwUoJOGk_uCr72Yvzb
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 * [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
+
+**[:top: back to top](#table-of-contents)**
+
+---
+
+### Learning Videos
+
+* [Welcome to Elm](https://www.youtube.com/playlist?list=PLuGpJqnV9DXq_ItwwUoJOGk_uCr72Yvzb) - Video playlist about learning all the Elm fundamentals.
+* [Elm The Complete Guide](https://www.udemy.com/course/elm-the-complete-guide/) - Video tutorial including Elm UI, Elm Review, responsive design, tests and more.
+* [Egghead.io: Elm videos](https://egghead.io/q?q=elm) - Egghead's Elm video training, many of which are free.
+* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
+* [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
 **[:top: back to top](#table-of-contents)**
 
