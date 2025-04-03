@@ -308,6 +308,7 @@ You can find hundreds of high quality packages at:
 
 * [Elm Pages](http://elm-pages.com) - Static site generator that prerenders HTML and hydrates into an Elm client-side app ([here is a brief comparison with elmstatic](https://elm-pages.com/blog/introducing-elm-pages#comparing-elm-pages-and-elmstatic)).
 * [Elmstatic](https://korban.net/elm/elmstatic) - Elm-based static site generator.
+* [elm-starter](https://github.com/lucamug/elm-starter) - An experimental Elm-based bootstrapper that can also be plugged into already existing Elm applications.
 
 **[:top: back to top](#table-of-contents)**
 
