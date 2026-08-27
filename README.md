@@ -64,7 +64,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - Beginners' course to Elm and Data
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - A non-beginner book about the practical aspects of developing Elm applications.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
-* [A nice app on Elm street](https://madewithlove.com/blog/software-engineering/using-elm-with-react-a-nice-app-on-elm-street/) - An introduction to Elm
+* [A nice app on Elm street](https://madewithlove.com/blog/using-elm-with-react-a-nice-app-on-elm-street/) - An introduction to Elm
 * [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) Building web applications in [F#](https://dotnet.microsoft.com/languages/fsharp) following The Elm Architecture from first principles.
 * [Elm patterns](https://sporto.github.io/elm-patterns/) - A collection of coding patterns.
 * [Codings hints](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
@@ -81,7 +81,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 * [Elm Tutorial](https://sporto.gitbooks.io/elm-tutorial/content/) - A tutorial on developing single page web applications with Elm.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
-* [Elm For Beginners - Video Course](https://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
+* [Elm For Beginners - Video Course](https://knowthen.com/category/elm-for-beginners) - Build your first Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 * [Elm FAQ](https://faq.elm-community.org/) - Elm FAQ from [Elm Community](https://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
@@ -173,7 +173,6 @@ These are mostly conference talks, for videos about learning Elm look at the [Le
 
 * [Official Elm News](https://elm-lang.org/news) - Official Elm blog
 * [Elm Weekly](https://www.elmweekly.nl/) - A weekly newsletter about Elm
-* [Elm Bits](https://elmbits.com/) - A free weekly newsletter about Elm featuring hand-picked news, articles, books, events, tools, and libraries.
 * [Elm News](https://elm-news.com/) - All Elm news in one place
 * [Elm Greenwood](https://releases.elm.dmy.fr/) - Elm packages releases
 * [Elm Reddit](https://www.reddit.com/r/elm/) - Elm news in Reddit
@@ -193,7 +192,7 @@ These are mostly conference talks, for videos about learning Elm look at the [Le
 * [The Changelog 218](https://changelog.com/podcast/218) - Elm with Evan Czaplicki and Richard Feldman
 * [The Changelog 191](https://changelog.com/podcast/191/) - Elm and Functional Programming with Richard Feldman.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
-* [The Web Platform Podcast 15](https://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - Functional Programming with Elm, ClojureScript, Om, and React.
+* [The Web Platform Podcast 15](https://www.youtube.com/watch?v=vpV7dYU274o) - Functional Programming with Elm, ClojureScript, Om, and React.
 * [The Web Platform Podcast 76](https://thewebplatformpodcast.com/76-the-elm-programming-language) - The Elm Programming Language.
 * [The Web Platform Podcast 108](https://thewebplatformpodcast.com/108-elm-revisited) - Elm Revisited.
 * [Full Stack Radio 44](https://www.fullstackradio.com/44) - What the heck is Elm? In this episode, Joel Clermont talks about Elm and functional programming.
@@ -434,7 +433,7 @@ You can find hundreds of high quality packages at:
 * [Gipher](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
 * [Collection of examples](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
 * [\<elm-ement\>](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
-* [Elm Playground](https://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
+* [Elm Playground](https://elm-playground.surge.sh/) - Tiny Elm projects implemented for the sake of learning by example.
 * [Elm Architecture in Android](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
 * [Elm + Phoenix + Webpack](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
 * [Spotify Mapper](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
@@ -445,7 +444,7 @@ You can find hundreds of high quality packages at:
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
 * [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
-* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](https://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
+* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](https://enegames.itch.io/elm-narrative-engine) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
 * [Ari's Garden](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 * [Bolster](https://github.com/tarbh-engineering/journal) - An end-to-end encrypted journal app.
 * [Conway's Game of Life](https://github.com/pecheneg2015/elm-conway-life) - Elm implementation of Conway's Game of Life. **Elm v.0.19**
@@ -480,7 +479,6 @@ You can find hundreds of high quality packages at:
 * [Elm Conf](https://2019.elm-conf.com/)
 * [Elm Europe](https://2019.elmeurope.org/)
 * [Elm in the spring](https://www.elminthespring.org/)
-* [Oslo Elm day](https://osloelmday.no/)
 * [Elm Japan](https://elmjapan.org/)
 * [Elm Camp](https://elm.camp/)
 
